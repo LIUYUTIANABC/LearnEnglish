@@ -135,3 +135,36 @@ teacher，student,apple,learn,like,buy,rich,busy,happy
     - computer，book，pen，cellphoe，air，apple，bag
     - 可数名词：做主语要加限定词：The book，My book
   - 名词表参考网址：https://blog.csdn.net/weixin_45692705/article/details/119065613
+- 人称代词/指示代词，可以做主语
+  - 英语不能总是重复相同的名词：Nick is a teacher，Nick is from China, Nick is ...
+    - 英语不喜欢重复，甚至不能容忍重复
+    - 英文中使用代词的频率很高
+  - 使用代词，He，they
+  - 代替人的代词叫人称代词，也可以代指物
+  - 人称代词又分为主格和宾格
+    - 主格：作主语的格式，He
+    - 宾格：作宾语的格式，him
+    - 主格和宾格指同一个意思，只是作用不同，主格才能做主语，宾格不行
+    - 人称代词主格：I, we, you(你，你们), she, he, it(除人以外的它), they(他们，她们，它们)
+  - 指示代词：this，that
+- 数词，可以做主语
+  - 基数词：1 2 3 4 5
+  - 序数词：**The first** thing，**Eight** is a lucky number;
+- 动词不定式或者短语，可以做主语
+  - 在英语中，动词不能做主语，要变成动词不定式、动名词、动名词短语
+  - 动词不定式：To eat is important
+  - 动名词：Eating is important
+- 句子，可以做主语
+  - 一个句子充当长句子主语
+- 其他
+  - 看起来不是名词，但有名词的含义；
+  - old 形容词， the old 名词 "老人" 可以做主语
+  - the poor 穷人，the rich 富人，The rich should help the poor 富人应该帮助穷人
+  - "eat" is a verb "eat"是一个动词，做主语
+
+除了以上 7 类，其他的词一律不能作主语，比如，谓词，动词，介词，副词等都不可以做主语
+
+Beautiful is important 错  ->  To be beautiful is important 对
+Drive a car is important 错  ->  To drive a car is important 对
+In my house has four cars 错 -> There are four cars in my house 对
+Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
