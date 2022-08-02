@@ -125,7 +125,7 @@ teacher，student,apple,learn,like,buy,rich,busy,happy
 
 句型 + 词汇 = 句子
 
-主语的词汇有：名词，代词，数词，动词不定式短语，动名词短语，句子，其他
+### 主语的词汇有：名词，代词，数词，动词不定式短语，动名词短语，句子，其他
 
 - 名词，所有名词都可以做主语
   - 专有名词：人名，地名
@@ -168,3 +168,42 @@ Beautiful is important 错  ->  To be beautiful is important 对
 Drive a car is important 错  ->  To drive a car is important 对
 In my house has four cars 错 -> There are four cars in my house 对
 Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
+
+### 谓语：说明主语动作或者状态，说明主语做什么，是什么，怎么样的词语
+
+- 动作型的谓语：主语做什么了
+  - 比如，“我吃什么”
+  - I eat an apple every day; 谓语：eat
+  - 由实义动词构成的
+- 状态型的谓语：主语是什么，怎么样的
+  - 比如，“我是什么”，“很漂亮”
+  - I am an English teacher; 谓语：am an English teacher;
+  - She is very beautiful; 谓语：is very beautiful;
+  - 由“系表结构”构成的
+- 注意：谓语只跟主语有关系，说明主语情况，跟其他成分没有关系
+  - Your father is rich； 定语 your，主语 father，谓语 is rich
+
+动作型谓语：表示动作或者心理行为的词语
+
+- eat,drink,play,buy 动作
+- think，like，know，consider，hope，believe 心理行为
+
+- 1、动作型简单谓语：由“实义动词”/"动词短语" 构成
+  - 实义动词，表示由“实际意义”的动词，区别与“系动词”，“组动词”，“情态动词”
+    - 比如：say，talk，speak，type
+  - 动词短语，由动词和零位一个或几个单词构成，复合动词
+    - 比如，look after 照顾，一个动词
+    - 比如，look for = seek = 寻找，一个动词
+    - 比如，Get up 起床，一个动词
+    - 比如，Look at 看，一个动词
+- 2、动作型复合谓语，由简单谓语再加上其他词语，共同作为谓语
+  - 情态动词 can，must + 实义动词或动词短语的原型
+    - 比如，I can speak Mandarin；can speak = 复合谓语
+    - 比如，I can look after her；can look after = 复合谓语
+  - 助动词 + 实义动词或动词短语的原型
+    - 比如，will = 没有意思，用在一般将来时态， will + 动词原形 = 复合谓语
+    - 比如，I will buy a book tomorrow， will buy = 复合谓语
+    - 比如，I will get up early tomorrow， will get up = 复合谓语
+  - 助动词 + 其他的动词形式（be + doing, have, ）
+    - 比如，I am working now. 现在进行时 am working = 复合谓语
+    - 比如，I have learned English for 10 years. 现在完成时 have learned = 复合谓语
