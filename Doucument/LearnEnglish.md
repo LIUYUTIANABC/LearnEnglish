@@ -207,3 +207,35 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
   - 助动词 + 其他的动词形式（be + doing, have, ）
     - 比如，I am working now. 现在进行时 am working = 复合谓语
     - 比如，I have learned English for 10 years. 现在完成时 have learned = 复合谓语
+
+状态型谓语：由“系动词+表语”构成，也是一种复合谓语
+
+- 系动词由“be”充当，“be + 表语”
+  - “be” 表示 “是”
+  - “be” 有八种形式：be，am,is,are, was,were, being,been
+  - 比如：I am happy 我高兴， am happy 是状态型谓语，happy 是表语
+  - 比如：you are cool 你很酷， are cool 是状态型谓语，cool 是表语
+
+
+### 表语，属于谓语范畴，但不能说表语就是谓语
+
+系动词+表语，组成谓语，系动词和表语不能分开，没有系动词就没有表语， 没有表语就没有系动词
+
+表语：说明主语的情况或者状态
+
+表语的词语：名词，形容词，介词短语...
+
+- 1，形容词作表语，“英语入门形容词表格”
+  - 比如：I am rich， rich 表语
+  - 比如：you are busy， busy 表语
+  - 比如：It is beautiful, beautiful 表语
+  - 可以理解为，系动词 后面就是 表语
+
+主语 + 系动词 + 形容词 = 句子
+主语 + 系动词 + 表语 = 句子
+
+- 2、名词作表语
+  - 人名 = 名词 = 可以做表语
+  - 比如：I am Rick
+  - 比如：She is a nurse
+  - 比如：We are students
