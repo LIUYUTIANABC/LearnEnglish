@@ -216,7 +216,6 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
   - 比如：I am happy 我高兴， am happy 是状态型谓语，happy 是表语
   - 比如：you are cool 你很酷， are cool 是状态型谓语，cool 是表语
 
-
 ### 表语，属于谓语范畴，但不能说表语就是谓语
 
 系动词+表语，组成谓语，系动词和表语不能分开，没有系动词就没有表语， 没有表语就没有系动词
@@ -231,11 +230,29 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
   - 比如：It is beautiful, beautiful 表语
   - 可以理解为，系动词 后面就是 表语
 
-主语 + 系动词 + 形容词 = 句子
-主语 + 系动词 + 表语 = 句子
-
 - 2、名词作表语
   - 人名 = 名词 = 可以做表语
-  - 比如：I am Rick
-  - 比如：She is a nurse
-  - 比如：We are students
+    - 比如：I am Rick
+    - 比如：She is a nurse
+    - 比如：We are students
+  - 普通名词，做表语，比较麻烦，要有限定词，或者复数
+    - 比如：a doctor，a teacher，my book
+
+- 3、介词短语做表语
+  - in，在，在里面，at，on，with，under
+  - in + 地名 = 介词短语；in Beijing
+  - I am in Beijing
+
+状态型谓语句子：
+
+主语 + 系动词 + 形容词 = 句子
+主语 + 系动词 + 表语 = 句子
+主语 + 系动词 + 介词短语 = 句子
+
+### 总结
+
+- 主语，定义
+  - 由 7 种词构成，最重要的是 名词和代词
+- 谓语，定义
+  - 动作型谓语
+  - 状态型谓语
