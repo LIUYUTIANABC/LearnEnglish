@@ -100,7 +100,7 @@ teacher，student,apple,learn,like,buy,rich,busy,happy
 
 - 突破，做什么都可以
 
-## 第一课 句子成分
+## 第一课 句子成分  P1
 
 - 句子成分对于理解复合句（长难句）至关重要
 - 句子成分需要复习多次，不能一次就记住的
@@ -251,8 +251,143 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
 
 ### 总结
 
-- 主语，定义
+- 主语，一个句子的主体
   - 由 7 种词构成，最重要的是 名词和代词
-- 谓语，定义
+- 谓语，说明主语的动作或状态
   - 动作型谓语
+    - 一个实义动词或一个复合动词（简单的动作型谓语）
+    - 复合动作型谓语
   - 状态型谓语
+    - 系动词 + 表语
+- 表语，形容词，名词，介词短语
+
+句型：
+
+主语 + 简单谓语 = 句子
+
+- 人称代词主格 + 一个实义动词
+  - I run；
+  - I work；
+- 名词 + 一个实义动词
+  - Nick works；
+
+主语 + 状态型谓语 = 句子
+
+- 主语 + 系动词 + 形容词 = 句子
+- 主语 + 系动词 + 表语 = 句子
+- 主语 + 系动词 + 介词短语 = 句子
+
+## 第一课 句子成分  P2
+
+### 宾语
+
+充当谓语的实义动词分为两种，及物动词、不及物动词。
+
+- 及物动词，后面一定要跟一个动作的对象或者承受者，也就是宾语；
+  - 因为，如果没有宾语，这些及物动词就没有意义，意思不完整
+  - buy，borrow，give
+  - 动词表
+- 不及物动词，
+
+宾语：就是动作的对象或者承受者
+
+- 宾语的词和主语的词一致
+- 小区别
+  - 代词不同：人称代词，作宾语必须用宾格，不能用主格
+  - 句子作主语，叫主语从句；句子作宾语，叫宾语从句
+- 名词作宾语：pen，key，house，book
+  - I buy a book， 主 + 谓 + 宾
+  - I found my key， 主 + 谓 + 宾
+- 人称代词作宾语：me，you，her（她），him（他），it，them（她/他/它们），us（我们）
+  - I believe her
+  - You believe us
+  - She loves him
+- 数词作宾语：I want two
+- 动词不定式短语
+- 动名词短语
+- 句子
+
+有一些另类的及物动词，后面可以跟两个宾语，一个叫直接宾语，一个叫间接宾语，并列宾语
+
+- 一般来说，表示人的叫间接宾语，表示物的直接宾语
+- 这种动词叫双宾动词
+  - 双宾动词 + 间接宾语（人） + 直接宾语（物）
+- I gave her a book, her 间接，a book 直接
+- I gave them books
+- 直接宾语，间接宾语 可以调换，但是要加 to
+  - I gave a book to her
+- 造句
+  - She lent me her bike； She lent her bike to me
+  - They sent her a gife； They sent a gift to her
+- 双宾动词表
+
+### 宾语补足语
+
+有些及物动词加了宾语之后，意思还是不完整，就需要宾补，使整个句子意思完整
+
+- 补充宾语，如果没有宾语，就不会有宾补的，宾补只和宾语有关
+- make：使，让，制造
+  - I make you； 句子不完整
+  - I make you happy； 句子完整，happy 宾补
+- 能作宾补的词语：形容词，名词，数词，动词不定式，动名词，副词，分词，介词短语，句子
+  - 形容词：上面及物动词能跟宾补
+    - I made her happy； 句型：主 + 谓 + 宾 + 宾补
+    - You make me mad；
+    - He made the English class funny；
+    - Eating apples can make you healthy；
+  - 名词：作宾补的名词，只有少数几个，Call、
+    - I call her Mary
+    - You can call me Nick
+    - I will make you a translator；复合谓语：will make， 宾补：a translator
+  - 介词短语
+- 句型
+  - 主语 + 特殊的及物动词（谓语） + 宾语+ 宾补
+- 注意：名词作宾语的时候容易跟双宾混淆
+  - I gave her a book；双宾
+    - 双宾要求一个表示人，一个表示物
+  - I call her Mary；名词作宾补
+    - 宾补跟宾语是同位语关系，宾语和宾补是同一个人或同一个事物
+
+称呼老师：MR.姓氏；（已婚）MRS.姓氏；（未婚）MS.姓氏
+
+### 状语
+
+状语是一个很重要的句子成分；状语是说明谓语的情况，状语只跟谓语有关系。
+
+- 英语的状语一般放在句子后面；如，我今天很开心（状语：今天），我在广西教英语（状语在广西）
+- 状语有很多种：时间状语，地点状语，方式状语，原因状语，目的状语
+  - 时间状语
+    - at morning
+    - today
+    - now
+  - 地点状语
+    - in Beijing
+    - in the room
+    - here
+  - 方式状语
+    - slowly
+    - quickly
+    - loudly
+    - angrily
+- 做状语的词语：副词，介词，句子等
+- 句子
+  - 动作型谓语 + 状语
+    - I teach English in Guangxi； 修饰谓语的，在广西教英语
+    - I work in Beijing； 主 + 谓 + 宾 + 状语;
+    - I eat watermelons in classroom；
+  - 状态型谓语 + 状语
+    - I am happy in Beijing; 修饰谓语（am happy），在北京快乐
+    - I am happy today; 副词：today，修饰谓语，就是状语
+    - I am busy now；我现在忙； now 副词，修饰 am busy，所以是状语
+    - I will buy a book tomorrow；谓语：will buy
+    - I will go home tomorrow；谓语：will go home
+    - I teach English here; 谓语：teach，状语：here
+  - 方式状语
+    - I speak English slowly；谓语 speak，状语 slowly，修饰说的慢
+    - She looked at him angrily；
+- 注意：英语一句话里面可以同时出现多个状语
+  - I teach English in Guangxi now.
+  - I teach English patiently in Guangxi now.
+
+### 总结
+
