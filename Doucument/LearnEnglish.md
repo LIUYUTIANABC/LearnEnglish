@@ -1,6 +1,7 @@
 # 学习英语
 
 - 参考网址： https://www.bilibili.com/video/BV1CR4y1g7A2?spm_id_from=333.337.search-card.all.click
+- 参考网址： https://www.bilibili.com/video/BV1o4411Q7Dr?p=3
 
 ## 学习英语方法
 
@@ -390,3 +391,50 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
   - I teach English patiently in Guangxi now.
 - 修饰谓语的叫做状语，状语可以修饰动作型谓语，也可以修饰状态型谓语；
   - 状语一般放后面，句尾；有时候可以放到开头；特殊的副词，必须放中间
+
+### 定语
+
+定语：修饰或限定名词的词语叫定语，定语只跟名词有关；
+
+- 比如：帮我买苹果；没有定语
+  - 帮我买十个苹果；有定语：“十个” 修饰的是名词苹果
+- 注意：英语里面，普通名词才能带定语，一般情况下，专有名词不能带定语，也有特殊情况
+- 定语可以很长，比如：美丽的姑娘（定语：美丽的），昨天上午买的书（定语：昨天上午买的）
+
+在英语里面，有前置定语和后置定语，中文里面只有前置定语
+
+- 前置定语：在名词前面
+- 后置定语：在名词后面
+
+可以做前置定语的词有：
+
+- 1、形容词性物主代词
+  - my（我的）, her（她的），our（我们的）
+- 2、形容词
+  - expensive book，good book，handsome man，happy girl
+- 3、名词所有格 ('s)
+  - Nick's book;
+- 4、数词
+  - 基数词：three books； Ten apples；
+  - 序数词：The first girlfriend；
+- 5、名词作前置定语
+  - English book；room number；
+- 6、量词
+  - a bottle of（一瓶）；a cup of（一杯）
+- 7、指示代词
+  - this book；that girl；
+
+注意：同一个普通名词，可以跟多个定语
+
+- 比如：two（定1） beautiful（定2） girls； JT’s（定1） fat（定2） rich（定3） girlfriend；
+
+后置定语由介词短语、名词所有格（of + 名词）、动名词短语、动词不定式短语、句子构成
+
+- The people in the park are dancing;
+
+### 同位语
+
+同位语：两个不同的词语都表示同一个事物或人。同位语起到强调补充说明的作用
+
+- 例子
+  - my
