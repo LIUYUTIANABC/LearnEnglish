@@ -437,4 +437,63 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
 同位语：两个不同的词语都表示同一个事物或人。同位语起到强调补充说明的作用
 
 - 例子
-  - my
+  - my father，the fat man，is drinking；同位语：my father 和 the fat man
+  - I believe Nick，My English teacher
+  - JT‘s girlfriend, the fat girl, is rich
+
+### 五个基本句型
+
+以上是基本句子成分，只知道成分，不能造句，要造句还需要掌握句子成分摆放位置，即基本句型
+
+- 基本句型有五个，英语句子不管多复杂，都由这五个基本句型变化而来的
+  - 1、主语 + 谓语（不及物动词） + 状语（表示动作）
+    - I work every day； work（不及物动词）做谓语，every day 时间状语
+    - I run every day； run（不及物动词）做谓语
+    - I live in Zhongshan city； live（不及物动词），in Zhongshan city 地点状语
+    - I live Beijing；  错的；live（不及物动词）不能加宾语，应该加状语
+    - I live in Beijing；  对的;
+  - 2、主语 + be（系动词） + 表语 + 状语（表示状态）
+    - She is rich now； rich 形容词作表语，now 时间状语
+    - I am in Guangdong now； in Guangdong 介词短语作表语，now 时间状语
+    - I was a worker before； a worker 名词作表语，before 时间状语
+  - 3、主语 + 谓语（及物动词） + 宾语 + 状语（表示动作）
+    - I read English every morning； 及物动词 read 作谓语，English 名词作宾语，every morning 时间状语
+    - We bake beef every month；
+    - She learns English very hard； hard 方式副词作状语
+  - 4、主语 + 谓语（及物动词里面的双宾动词） + 双宾语 + 状语（表示动作）
+    - I gave her a book yesterday；gave 谓语，her 间接宾语，book 直接宾语，yesterday 时间状语
+    - They sent me a computer last week；
+  - 5、主语 + 谓语（少数特定的及物动词） + 宾语 + 宾补 + 状语（表示动作）
+    - I made her happy yesterday； happy 形容词作宾语
+    - Her father called her Baby Bear before；called 及物动词作谓语，her 宾语，Baby Bear 名词补足语，before 时间状语
+
+五个基本句型根据共同点，可以分为两类
+
+- 状态型：主语 + （系）be + 表语 + 状语；  第 2 个基本句型
+- 动作型（包括实义动作和心理动作）：主语 + 谓语 + 宾语 + 状语；  第 1，3，4，5 的基本句型
+- 例子：
+  - 今天天气很好； 状态的句子
+  - 我每天都很开心； 状态的句子
+  - 我每天都学英语； 动作的句子
+  - 她经常买衣服； 动作的句子
+- 造句方法：学语法为了造句
+  - 造句第一步：要造的句子是动作的还是状态的
+  - 造句第二部：选择一个句型，状态：主系表；动作：主谓宾；选择正确的句型
+  - 造句第三步：时态，词语等
+- 例子：
+  - 表达 “我喜欢英语”，首先是动作的句子，
+    - 然后，动作的句子没有 be 动词 “am”，状态的句子用 be 动词，应该用实义动词
+    - 选择主谓宾：I like English
+  - 疑问句 Are you 和 Do you
+    - 主谓宾结构用 do you；比如 I love you；Do you love me？
+    - 主系表结构用 Are you；比如 I am a teacher；Are you a teacher？
+    - JT is handsome；Is JT handsome？
+  - I am like this toilet；主系表结构
+    - like this toilet 作表语，like 像...一样
+    - 多了一个 am 表示我像马桶一样
+    - 不能 主谓宾 和 主系表 混合，乱说
+
+注意：
+
+- 刚开始学习，要保证正确率，而不是速度，和数量，保证质量，以后再慢慢变快；
+- 一定要造句和阅读，动手实践，消化吸收
