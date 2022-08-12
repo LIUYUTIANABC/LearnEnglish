@@ -497,3 +497,57 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
 
 - 刚开始学习，要保证正确率，而不是速度，和数量，保证质量，以后再慢慢变快；
 - 一定要造句和阅读，动手实践，消化吸收
+
+## 第二课 名词  P7
+
+名词：世间万物的名称；pan，computer等
+
+名词分类：普通名词和专有名词
+
+- 专有名词：人名，地名，专有机构，组织，术语
+- 普通名词：分为 可数名词 和 不可数名词
+  - 可数名词：用肉眼能分清数量的名词；比如：书，房子，手机，电脑
+  - 不可数名词：用肉眼不能分清数量的名词；比如：水，牛奶，酒，头发，沙子，大米，肉
+- 有些中文不可数名词再英文可数；比如：sky（skies），memory（memories） 是可数的
+  - 液体 water 是不可数，tear（tears） 眼泪 是可数的
+
+每个可数名词都有两种格式：一个是单词的单数格式，一个是复数格式；
+
+- 比如：apple = apples；teacher = teachers
+- 可数名词单数变复数规则
+  - 1、大部分可数名词变复数 直接 +s； computer（computers）
+  - 2、可数名词是以字母 s，sh，x，ch 结尾的单词变复数 +es；
+    - box（boxes），watch（watches），brush（brushes）,bus(buses)
+    - 一个例外：stomach（胃）复数直接 +s：stomachs
+  - 3、辅音字母 +y 结尾的名词，去 y 变 i+es
+    - 元音五个 A，E，I，O，U，其他都是辅音
+    - 比如：city（cities）；t 辅音 + y，变复数，i+es
+    - baby（babies）；country（countries）；story（stories）；party（parties）
+  - 4、元音字母 +y 结尾；不用变化直接 +s
+    - 比如：toy（toys）；boy（boys）；day（days）
+  - 5、当可数名词以字母 f 或 fe 结尾的单词，去 f 或 fe 变 v+es
+    - 比如：wife（wives）；knife（knives）；thief（thieves）；leaf（leaves）；wolf（wolves）
+    - 例外：roof（roofs）房顶；gulf（gulfs）海湾；cliff（cliffs）悬崖
+  - 6、辅音字母 +o 结尾的可数名词变复数也是 +es
+    - 比如：tomato（tomatoes）；potato（potatoes）；hero（heroes）
+    - 例外：元音字母 +o 结尾的可数名词或者以 o 结尾的外来词，简写词都直接 +s
+    - 比如：bamboo（bamboos）竹子；piano（pianos）钢琴；radio（radios）收音机
+- 可数名词不规则变化：是少数的；通过造句和运用记住
+    - 比如：Man（men）；mouse（mice）老鼠；goose（geese）鹅；ox（oxen）牛；child（children）小孩
+  - 单复数相同的可数名词
+    - 比如：Deer（deer）鹿；sheep（sheep）绵羊；Chinese（Chinese）中国人
+  - 有些可数名词，只有复数形式，没有单数形式，称为复数名词
+    - 比如：people人们；police警察；public公众；clothes衣服；cattle牛，本身就是复数形式
+    - 复数名词的单数形式一般不使用，或别的词替代
+- 句子：
+  - I eat apple 错，名词需要加冠词：I eat an apple
+  - I am student 错，名词需要加冠词：I am a student
+  - I know two teacher 错，名词应该用复数：I know two teachers
+
+不可数名词：不可数名词，没有复数格式，只有单数格式
+
+- 不可数名词不可以变复数
+  - A lot of moneys 错；money 不可数名词，不能变复数；A lot of money 对
+  - water is important；不可数名词只有单数，所以用 is； water are important 错
+- 有时候，需要一个量词，表示不可数名词的数量
+  - a glass of water；a bottle of water；
