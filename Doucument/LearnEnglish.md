@@ -551,3 +551,93 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
   - water is important；不可数名词只有单数，所以用 is； water are important 错
 - 有时候，需要一个量词，表示不可数名词的数量
   - a glass of water；a bottle of water；
+  - 要表示“几杯水，几瓶水”，把量词变成复数，不可数名词不能变复数
+    - 比如：two glasses of water；three bottles of water
+  - 量词作前置定语，
+    - two cups of tea/coffee; a bottle of milk/oil/wine; a kilogram of meat
+
+量词的构成方式有两种
+
+- 1、A/an/one + 可数名词单数 + of
+  - 比如：a cup of；a bucket of 一桶; a tin of 一罐; a truck of 一卡车
+- 2、数词 + 可数名词复数 + of
+  - 比如：two bottles of 两瓶；three tines of 三罐；
+- 注意：of 没有意思，不要跟后面的名词所有格里面的 of 混淆
+- 特殊情况：量词大多数修饰不可数名词；但也可以修饰可数名词复数，但不能修饰可数名词单数
+  - 比如：a basket of apples 对；a basket of apple 错的
+  - a box of books；量词后跟可数名词复数
+- 注意：不是所有的可数名词，都能构成量词；只有那些有内部空间或容器或一些符合逻辑的可数名词才可以构成量词
+  - 比如：bag/basket/truck（有内部空间）
+  - cup/glass/bottle（容器）
+  - bar（条）/piece（片）/loaf（复合逻辑）
+  - a table of food 错；a bag of money 对；a bowl of meat 一碗肉 对；
+  - a desk of books 错；逻辑不符
+
+常常被忽略的一个内容：一个可数名词的单数是不能单独在句子或短语里面出现的，需要加限定词（形容词性物主代词，指示代词，'s 的所有格）或加冠词，或变复数。
+
+- 形容词性物主代词：My, your, his, her, our, their
+- 指示代词：this, that
+- 's 所有格：Nick’s
+- 冠词：a/an，the
+- 复数：books
+- 比如：
+  - she is teacher 错；可数名词 teacher 不能单独出现在句子里；
+  - She is a teacher 对；She is my teacher 对；she is Nick's teacher 对；
+  - I like apple 错；I read book 错；I like singing song 错;
+  - I like an apple 对；I like apples 对；I like singing songs 对;
+
+名词的作用
+
+- 1、作主语：
+  - 可数名词单数作主语，注意不能单独使用，要加限定词（指示代词...）
+  - 比如：The book is new；My book is new
+  - 专有名词直接用；不可数名词可以直接用；
+  - 比如：Tom is a good student；Water is important；
+  - 名词复数可以单独使用，但表示范围很大，使用不多
+  - 比如：Books are good；表示所有的书，全世界的书
+  - The book are good 常用
+- 2、作表语
+  - 注意：名词作表语的时候，是说明主语的身份；不能乱用抽象名词作表语
+  - 比如：I am happiness（名词）；我是幸福，幸福 抽象名词，不符合逻辑，人不是幸福
+  - Health is happiness；健康是幸福；抽象名词 是 抽象名词
+  - 正常的句子
+  - He is my friend
+  - This is a cellphone/mobile phone
+  - My brother is an engineer;
+- 3、作宾语（用的最多），及物动词 + 宾语;
+  - 这里的可数名词也要加限定词，作宾语
+  - I like pears
+  - I bought a textbook last week
+  - He does his homework very carefully
+  - 专有名词作宾语
+  - I like Mary
+  - I like Guangxi
+  - 不可数名词作宾语
+  - I like money
+- 4、宾补；主语 + 特定的及物动词 + 宾语 + 宾补
+  - 特定的及物动词：call，make
+  - I call him Uncle Tom；
+  - My sister calls the cat Kitty
+  - I will make her a happy woman
+- 5、作定语（名词作定语的情况不多，并且可以理解为一个复合名词）
+  - English book; School gate; Room number
+  - 可以把它当成是复合名词：两个名词 组成复合名词
+  - 复合名词：
+    - 1、前面的名词，如果是可数名词，不发生变化
+    - 2、后面的名词，如果可数，复合名词就是可数名词；如果是不可数，复合名词就是不可数
+    - 比如：School gate 可数复合名词；There are two school gates
+    - chicken leg 可数复合名词；I ate two chicken legs
+    - chicken soup 不可数复合名词；A bowl of chicken soup
+    - peanut oil（花生油）不可数复合名词；
+- 6、名词作介词宾语（暂不讲）
+- 7、名词作同位语（暂不讲）
+
+作业一：写 8 个量词，并且写出量词的中文意思；
+
+实例：a box of；two bowls of；three cups of；a train of 一火车；
+
+作业二：从上面量词中选五个，作前置定语修饰一个不可数名词，或可数名词复数
+
+示例：a book of books；a train of coal 一火车煤；
+
+注意：a lot of 不是量词，相当于 many
