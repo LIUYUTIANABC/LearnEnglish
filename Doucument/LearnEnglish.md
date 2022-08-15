@@ -641,3 +641,6 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
 示例：a book of books；a train of coal 一火车煤；
 
 注意：a lot of 不是量词，相当于 many
+
+- two baskets of eggs; Five bars of chocolate;
+- two tins of milk;
