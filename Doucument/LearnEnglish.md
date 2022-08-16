@@ -638,6 +638,18 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
 
 作业二：从上面量词中选五个，作前置定语修饰一个不可数名词，或可数名词复数
 
-示例：a book of books；a train of coal 一火车煤；
+示例：a box of books；a train of coal 一火车煤；
 
 注意：a lot of 不是量词，相当于 many
+
+我的作业：
+
+- 修饰不可数名词
+  - a bowl of soup；two bowls of soup
+  - a cup of coffee; two cups of water;
+  - two dollars; two kilograms of food
+  - three tins of fish；
+- 修饰可数名词复数
+  - There are two boxes of candies/chocolate；a box of cards
+  - a bag of clothes；a basket of apples
+  - a pair of trousers; a pair of pants;
