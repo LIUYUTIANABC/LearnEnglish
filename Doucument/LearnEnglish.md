@@ -648,8 +648,10 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
   - a bowl of soup；two bowls of soup
   - a cup of coffee; two cups of water;
   - two dollars; two kilograms of food
-  - three tins of fish；
+  - three tins of fish；two tins of milk;
+  - Five bars of chocolate;
 - 修饰可数名词复数
   - There are two boxes of candies/chocolate；a box of cards
-  - a bag of clothes；a basket of apples
+  - a bag of clothes；
   - a pair of trousers; a pair of pants;
+  - two baskets of eggs; a basket of apples
