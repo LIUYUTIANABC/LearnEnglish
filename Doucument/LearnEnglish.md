@@ -655,3 +655,29 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
   - a bag of clothes；
   - a pair of trousers; a pair of pants;
   - two baskets of eggs; a basket of apples
+
+### 名词 第二节课
+
+名词所有格：表示所属关系的一种格式
+
+- 比如：小明的书包；小明的 就是所有格；人名 + 的 = 所有格，
+- 常用作定语，Nick's book
+
+英文的名词所有格有两种构成方式
+
+- 1、有生命的名词 + 's
+  - 有生命的名词：人和动物
+  - 比如：Nick's ; Jack's ....
+  - 是人的名词且是普通可数名词；注意：可数名词单数不能直接使用，要加限定词（冠词，物主代词）
+    - 比如：Friend's 错；My friend's 对；
+    - 注意：Mother's 对的，因为 M 大写，相当于专有名词，如果 m 小写，mother's 是错的；
+    - 称呼可以直接使用：比如：Father，Grandma,Baby,honey 等
+    - My mother's; Her mother's;
+    - The doctor's;
+  - 名词所有格作前置定语，可以修饰可数名词，也可以修饰不可数名词
+    - 修饰不可数名词：Lily's tea; The dog's food;
+    - 修饰可数名词：Mother's hands; My sister's friends; The dog's tail; The bird's nest
+    - 注意：Nick's book 对；强调一本书； Nick's books 对，强调所有书
+    - Nick's a book 错; Nick's three books 错；想表达 Nick 的三本书
+    - 双重所有格：three books of Nick's
+    - 中间加数次，冠词，都不行，加形容词可以：Nick's rich students 对;
