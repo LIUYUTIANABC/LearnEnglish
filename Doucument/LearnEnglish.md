@@ -680,4 +680,59 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
     - 注意：Nick's book 对；强调一本书； Nick's books 对，强调所有书
     - Nick's a book 错; Nick's three books 错；想表达 Nick 的三本书
     - 双重所有格：three books of Nick's
-    - 中间加数次，冠词，都不行，加形容词可以：Nick's rich students 对;
+    - 中间加数词，冠词，限定词，都不行，加形容词可以：Nick's rich students 对;
+  - 如果有生命的名词，结尾是复数或名词本身是 s 结尾的，直接加 ' 就可以了，当然也可以加 's
+    - 比如：My boss' car = My boss's car
+    - Happy Teachers's day 对; teacher 应该是复数 teachers； teacher's day 错；
+  - 例外：today's newspaper 对；today 没有生命，但是是习惯用语
+  - 's 除了作前置定语，还可以作表语；
+    - Whose pen is it?  It is Tim's;  Tim's 作表语，Tim 的
+    - The house is my father's; 作表语
+- 2、无生命的名词用：of + 无生命名词
+  - 比如：这个城市的中心； the city's center 错；city 无生命；The center of the city;
+    - of the city; 才是正确的名词所有格；相当于后置定语；修饰 the center
+  - The house's price 错; house 无生命；The price of the house；
+  - 注意：如果这个名词是可数名词，要考虑单复数问题或冠词问题；可数名词单数必须加限定词使用
+    - of house 错； of the house 对，这个房子的；house 可数名词
+    - of houses 对，房子的；of my house 对，我房子的； of Nick's house 对，Nick 房子的
+    - of this coat 对，这件大衣的； of my coat 对，我的大衣的
+    - 不可数名词直接使用
+    - 比如：of water 对；of oil 对；
+- 所有格不是完整的意思，如何使用，一般作后置定语
+  - of the house 房子的；作后置定语： The color of the house 名词 + 后置定语 = 短语；
+  - 注意：短语没有主语，句子才有主语，The color of the house 是短语，the color 不是主语
+  - 注意：被所有格修饰的名词，不管单数还是复数，不管可数还是不可数，都必须加定冠词 the
+    - the color 是被 of the house 修饰的名词，必须加 the 组成 the color
+    - the colors of the house；the colors 被所有格 of the house 修饰，必须加 the
+  - The price of the house； 单数强调，一个价格
+  - The prices of oil； 复数强调许多价格，都是对的；不可数名词 oil 直接使用 of oil
+  - The color of the flowers；花的颜色，一种颜色，The colors of the flowers； 花的多种颜色，都对
+  - The color of the carrot； The gate of our school
+  - The covers of the book 这本书的封面；
+  - The roof of the house；zhe房子的顶部；
+  - The answers of the exam；这试卷的答案
+  - The name of the book；
+  - 器官也是无生命的名词： of my hands； of his head；
+- 注意：使用名词所有格来修饰名词作后置定语的时候，必须考虑所属关系；没有所属关系，会产生逻辑问题
+  - 比如： The water of the cup 错；水 不属于 杯子；结构对，逻辑不对
+    - 要表达被子里的水，应该加介词短语：The water in the cup 对；
+    - The desk of the room 错；The desk in the room 对；
+  - 介词短语作后置定语，不是所有格形式，要分清楚
+  - 所有格：必须是后面名词所拥有的属性，比如 book 的 名字，尺寸，颜色deng
+    - The door of the room；The windows of the house；对的，所属关系
+    - 通用属性单词：name，color，price，size，
+
+总结：
+
+- 名词所有格，必须是名词构成；She's book 错； she 是代词她， 不是名词
+- 组成的短语，不是句子
+
+作业一：
+
+- 写五个 “of + 无生命的名词” 名词所有格
+
+示例： of my computer； of the book； of this classroom； of bread 面包的（不可数名词）
+
+作业二：用上面的名词所有格作后置定语，修饰名词：name，color，price，size
+
+- The color of my computer； The size of the book； The name of this classroom；
