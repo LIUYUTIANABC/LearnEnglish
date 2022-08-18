@@ -743,3 +743,62 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
 - The color of the bag; The names of that balls;
 - The name of the bookstore; The prices of brushes;
 - The size of the cap; The color of her car;
+
+## 第三课 代词
+
+代词：为避免重复而用来代替名词的词语
+
+代词有九类：人称代词，物主代词，指示代词，反身代词，相互代词，不定代词，疑问代词，连接代词，关系代词
+
+- 1、人称代词：代替人的名词的词语
+  - it，they 和 them（宾格）； 可以代替事物； it is my mother; it 代指 mother
+  - 比如：I bought many books，They are useful； They 可以代指书，即事物；I like them；them 宾格，代指书，即事物
+  - 中文只有一种代词，英文有两种代词格式
+    - 主格：I，you（你/你们），she，he，it，we，they（他/她/它们）
+    - 宾格：me，you（和主格一样），her（她），him（他），it（和主格一样），us，them（他/她/它们）
+  - 主格作主语，宾格作宾语
+    - 比如：She is very happy 对；her is very happy 错
+    - They are so excited；  I like music；
+    - We learn French；  It is cheap;
+    - 比如：I like her 对；  I like she 错；
+    - I support them；  He teaches us English；
+    - They believe me；
+  - 主格和宾格都可以作表语，作表语，主格和宾格都对
+    - Who is it? It is me/I 对；
+  - 注意：两个或两个以上的人称代词的单数作并列主语的时候顺序为： you， he（she），I
+    - 复数的顺序为：we，you and they
+    - He and I are both from Guangxi；
+    - You and I like music；She and I like money；
+    - We and you will have a football match；注意这里的 you 表示的 你们；我们和你们将有一场足球赛
+- 2、物主代词
+  - 表示所有关系的代词叫物主代词；物主代词有形容词性物主代词 和 名词性物主代词
+  - 形容词性物主代词：my，your（你的/你们的），her（和人称代词宾格一样），his，its，our，their（他/她/它们的）
+  - 名词性物主代词：mine(我的)，yours（你的/你们的）,hers,his(和形容词物主代词一样),its(和形容词物主代词一样),ours,theirs
+  - 形容词性物主代词 和 名词性物主代词，意思好像都一样，但实际上不一样，区别
+    - This is my book； 这里的 my 是定语，具有形容词意义
+    - Your book is more expensive then mine； 这里的 mine 指 我的书，具有名词的意义，名词性物主代词
+  - 形容词性物主代词
+    - 形容词性物主代词只有一个作用，作前置定语，一定要修饰名词，放在普通名词前
+    - 形容词性物主代词作前置定语，可以修饰可数名词单数和复数，还可以修饰不可数名词
+    - 单数：my house； your house； her house；Its house； our house；their house；
+    - 复数：your cars；My houses；
+    - 不可数名词：My money； my water； your coffee； Their wine
+    - 注意：形容词性物主代词作前置定语，中间不能加数词和冠词；
+    - My two books 错；My the book 错；My a book 错；
+  - 名词性物主代词
+    - 名词性物主代词 相当于一个名词；所以可以作主语，表语，宾语等，但不能作定语
+    - 但是只能在前面提到或者避免重复的时候才能用，不能乱用；
+    - 比如： My car is very good； Mine is better；作主语，避免重复名词 car 用 mine 代替 my car
+    - My car is very good；I want yours；yours 作宾语，代替 your car
+    - Whose is this house？ It is hers；作表语 hers 代替 her house
+    - My computer is better than yours； yours 代替 your computer
+    - 使用名词物主代词，为了避免重复，不要啰嗦
+    - My house is bigger than yours；
+    - Her cellphone is more expensive than mine；
+    - My student is better than hers；
+    - 注意：
+    - Her boyfriend is better than hers 错；指代不清；她的男朋友比她的男朋友更好，都是同一个人
+    - Her boyfriend is better than yours 对；不是同一个人
+    - 注意：名词性物主代词，不能作定语；因为，形容词性物主代词，已经专门作定语了，
+      - my book 对； mine book 错；Theirs book 错；their book 对；
+- 3、指示代词
