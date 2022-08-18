@@ -736,3 +736,10 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
 作业二：用上面的名词所有格作后置定语，修饰名词：name，color，price，size
 
 - The color of my computer； The size of the book； The name of this classroom；
+
+我的作业:
+
+- The size of the airport; The price of apples;
+- The color of the bag; The names of that balls;
+- The name of the bookstore; The prices of brushes;
+- The size of the cap; The color of her car;
