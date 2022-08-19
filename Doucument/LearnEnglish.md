@@ -802,3 +802,58 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
     - 注意：名词性物主代词，不能作定语；因为，形容词性物主代词，已经专门作定语了，
       - my book 对； mine book 错；Theirs book 错；their book 对；
 - 3、指示代词
+
+指示代词只有两个：单数：this（这个） 和 that（那个）；复数是：these（这些） 和 those（那些）；
+
+指示代词可以作：主语，宾语，表语，定语；其中主语和定语最常见
+
+- 1、作定语
+  - This 和 that 作前置定语；可以修饰单数，不可数名词；不能修饰复数
+    - 修饰单数：This house； This computer； That girl；That student；
+    - 修饰不可数名词：This water；This money；that money
+    - 不可以修饰复数：This houses 错； That books 错；
+  - these 和 those 可以作前置定语，只能修饰可数名词复数，不能修饰可数名词单数，或不可数名词
+    - 修饰复数：These girls；these books; those books
+    - 不可以修饰单数：these boy 错； These money 错；
+    - I support these boys 对；
+- 2、作主语
+  - this 和 that 作主语的时候是单数概念；主系表结构，用 is 或 was 单数格式
+    - This is my book;
+    - That is my student;  This is my wife;
+  - these 和 those 作主语的时候是复数概念；主系表结构，用 are 或 were 单数格式
+    - Those are her pencils;
+    - These are my students/friends;
+    - Those are my books；
+- 3、作宾语
+  - 可以作宾语，但很少使用
+    - I want this； 离我近的这个
+    - I like that； 离我远的那个
+    - I will buy these/those；
+- 4、作表语
+  - 更少使用
+  - It is this；
+- 注意：
+  - this book 对； this a book 错； this 已经是定语了，和 a 冠词平级
+  - my book；this book；a book；
+  - those books；two books；
+- 注意：受中文影响，常说 她哥，我妈，你爸
+  - she brother 错； I mother 错； you father 错；
+  - 不能用人称代词主格，只能作主语，或表语，不能作定语
+  - me mother 错；宾格也不能作定语，只能作主语 和 表语
+  - 应该用 形容词性物主代词： my，your（你的/你们的），her（和人称代词宾格一样），his，its，our，their（他/她/它们的）
+  - her brother 对；my mother 对; your father 对; his grandfather 对；
+
+作业一：
+
+形容词性物主代词 + 可数名词单数 + is + better + than + 名词性物主代词； 五句
+
+示例：My sister is better than hers/his/their;
+
+作业二：
+
+用指示代词 this（that these those） + 名词 写短语； 八个短语
+
+示例：this book； that computer； these apples； those students；
+
+- this people 错； people 是复数名词 单复数一样； these people 对；
+
