@@ -857,3 +857,17 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
 
 - this people 错； people 是复数名词 单复数一样； these people 对；
 
+我的作业：
+
+- 作业一：
+  - my，your，her，his，its，our，their
+  - mine，yours,hers,his,its,ours,theirs
+  - My work is better than his； Our ways is better than theirs;
+  - Her watch is better than mine; Its tooth is better than ours;
+  - Your school is better than hers; His pen is better than yours;
+  - Their pianos is better than ours;
+
+- 作业二：
+  - this new； these news; that night; those nights;
+  - this map; that list; these dogs; those presents;
+  - this job; these goats;
