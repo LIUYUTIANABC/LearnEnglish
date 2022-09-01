@@ -862,12 +862,44 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
 - 作业一：
   - my，your，her，his，its，our，their
   - mine，yours,hers,his,its,ours,theirs
-  - My work is better than his； Our ways is better than theirs;
-  - Her watch is better than mine; Its tooth is better than ours;
+  - My work is better than his； Our ways are better than theirs;
+  - Her watch is better than mine; Its teeth are better than ours;
   - Your school is better than hers; His pen is better than yours;
-  - Their pianos is better than ours;
+  - Their pianos are better than ours;
 
 - 作业二：
   - this new； these news; that night; those nights;
   - this map; that list; these dogs; those presents;
   - this job; these goats;
+
+## 入门班第一次测试
+
+### 句子成分考察
+
+- 1、不能作主语的词语有：A，名词； B，代词宾格； C，动词原形； D，形容词；   （BCD）
+- 2、能充当谓语的词语有：A，动词短语； B，介词； C，情态动词+动词原形； D，系动词+表语；   （ACD）
+- 3、能充当表语的词语有：A，形容词； B，名词； C，介词短语； D，动词过去式；   （ABC）
+- 4、不能作宾语的词语有：A，代词主格； B，动词过去分词； C，副词； D，动词不定式短语；   （ABC）
+- 5、能充当宾补的词语有：A，名词； B，形容词； C，人称代词主格； D，介词短语；   （ABD）
+- 6、不能作状语的词语有：A，普通名词； B，人称代词； C，副词； D，介词短语；   （AB）
+- 7、能充当前置定语的词语有：A，形容词； B，指示代词； C，动词原型； D，介词短语；   （AB）
+- 8、能充当后置定语的词语有：A，of 格式名词所有格； B，介词短语； C，名词； D，句子；   （ABD）
+- 9、基本句型错误的是：    （ACD）
+  - A，主语 + 不及物动词 + 宾语；
+  - B，主系表；
+  - C，主 谓 状语 宾语；
+    - 解释：I love you deeply 对； I deeply love you 对； I love deeply you 错；状语，不能放在谓语和宾语之间
+  - D，主 双宾动词 宾语 宾补
+    - 解释：双宾动词 间接宾语 直接宾语
+
+### 单词或短语，记单词，最好是组成短语更好记忆
+
+|                |                       |     |     |
+| -------------- | --------------------- | --- | --- |
+| lily's husband | these teachers' wives |     |     |
+
+## 第四课 形容词
+
+形容词（adjective）, adj. 或 a. ：
+- 形容词主要用来修饰名词和代词，表示人或事物的性质，状态，和特征的程度好坏与否
+- 形容词在英语中使用频率很高，数量
