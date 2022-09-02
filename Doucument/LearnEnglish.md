@@ -894,9 +894,16 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
 
 ### 单词或短语，记单词，最好是组成短语更好记忆
 
-|                |                       |     |     |
-| -------------- | --------------------- | --- | --- |
-| lily's husband | these teachers' wives |     |     |
+|                          |                         |                       |                      |
+| ------------------------ | ----------------------- | --------------------- | -------------------- |
+| Lily's husband           | these teachers' wives   | six stewardesses      | eight guides         |
+| these dentists           | his net friends         | Jack's pen pal        | their classmates     |
+| her roommate             | the doctor's colleagues | our Leader            | those clients        |
+| an uncle                 | three aunts             | ten tailors           | My boss' secretaries |
+| a car of(量词) policemen | policemen's car         | these painters        | two musicians        |
+| these singers            | those hostesses         | our guests            | Nick's partner       |
+| four detectives          | ten firefighters        | these butchers        | two saleswomen       |
+| my designer              | three accountants       | those babies' nannies |                      |
 
 ## 第四课 形容词
 
