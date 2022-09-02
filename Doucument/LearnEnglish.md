@@ -909,4 +909,59 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
 
 形容词（adjective）, adj. 或 a. ：
 - 形容词主要用来修饰名词和代词，表示人或事物的性质，状态，和特征的程度好坏与否
-- 形容词在英语中使用频率很高，数量
+- 形容词在英语中使用频率很高，数量也多，排在数词和名词的后面
+- 应该多积累形容词和名词，动词也有用，但不需要用很多
+
+形容词分两种：
+
+- 1、普通形容词
+  - beautiful； big； green； happy； long； cheap； angry； sad； busy， late
+  - 形容词表，比较级，最高级
+  - 形容词：一词多意，要注意
+- 2、复合形容词
+  - 由两个单词构成一个新的单词，具有形容词性
+  - 特征：两个单词之间有 "-";
+  - sky-blue 天蓝色的； good-looking 好看的； man-made 人造的；
+  - second-hand 二手的； warm-hearted 热心的； hard-working 努力的；
+
+形容词的作用
+
+- 一般只可以作前置定语，表语和宾补；
+- 1、作表语：大部分形容词都可以作表语；
+  - 可以构成句型：主 + be + 形容词（表语）；
+  - I am happy/busy; You are rich; She is busy; He is happy; They are rich;
+  - We are happy; It is big/small; The house is big; My house is small;
+  - The film is very boring; She is always happy;
+- 2、作前置定语：大部分形容词都可以作前置定语，修饰普通名词，放在普通名词前面，组成短语，不是句子
+  - The big house；My small house；A cheap computer；A rich man；
+    - 注 意：这里的 The，My，A 是限定词，普通名词单数不能直接使用，而形容词，必须放名词前面，构成一个短语
+  - 造句方式：先用普通名词造句，然后再普通名词前面加一个或多个形容词，作前置定语
+  - 比如：She is a girl； She is a beautiful gir; His girlfriend is a cute girl;
+  - 注意：形容词只和后面的名词有关，但是还要遵守名词的规则，不能有形容词，就忽略了名词规则
+    - I like beautiful girl 错；girl 可数名词单数，不能单独使用，和形容词作定语没有关系
+  - I like the small house; I bought a cheap computer; The cheap computer is mine;
+  - Those young people like sports very much；
+  - My mother bought an interesting book for me yesterday；
+- 3、作宾语补足语：形容词可以作宾补，但是只有在部分特定的及物动词后面才能跟形容词作宾补
+  - 比如：make， keep， prove；
+  - I make you busy； I make you rich；
+  - We keep the room clean； We keep the classroom quite；
+  - We must keep the classroom clean； All the facts proved him right；
+  - She made me angry last night；
+- 一般来说，形容词作定语和表语的情况是最多的，作宾补的情况相对少些；
+
+形容词的位置
+
+- 有多个形容词同时作前置定语修饰名词，排列顺序和中文不一样，按照下面的排列顺序：
+  - 1、冠词（a,an,the,物主代词 my,数词 three，指示代词 等） + 2、描绘性的形容词 beautiful +
+  - 3、表示形状（大小，长短，高矮）的形容词 + 4、表示年龄或者新旧的形容词 + 5、表示颜色 +
+  - 6、表示出处，来源 + 7、表示材料，物质的形容词 + 8、表示用途；
+- 例句：
+  - a beautiful tall young girl； my nice small brown leather bag；
+- 实际使用中，一般不会用太多形容词，两三个最多，同时不知道顺序，可以使用 and 连接
+- She is my kind teacher； I have three old books； 限定词（a,an,the, my, this） 必须放在第一位
+
+形容词的比较级和最高级
+
+- 大部分的形容词都有三种格式：原级，比较级（更），最高级（最）；
+  - good，better，best；
