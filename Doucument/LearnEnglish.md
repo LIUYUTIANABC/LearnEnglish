@@ -965,3 +965,106 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
 
 - 大部分的形容词都有三种格式：原级，比较级（更），最高级（最）；
   - good，better，best；
+- 变化规则
+  - 1、单音节形容词后面或者以 er，ow，ure，le 结尾的双音节形容词直接加 er，est，或者 r，st
+    - tall，taller，tallest；
+    - small，smaller，smallest；
+    - clever，cleverer，cleverest;
+  - 2、以一个辅音字符结尾的；先双写辅音字母再加 er，est
+    - big，bigger，biggest；
+    - thin，thinner，thinnest；
+  - 3、以辅音字母 + y 的，改 y 为 i 在加 er，est
+    - early，earlier，earliest；
+    - happy，happier，happiest；
+    - heavy，heavier，heaviest；
+  - 4、以 e 结尾的形容词后加 r，st
+    - brave，braver，bravest；
+    - polite，politer，politest；
+  - 5、大多数双音节和多音节的形容词，再前面加 more，most变比较级和最高级
+    - beautiful，more beautiful，most beautiful；
+    - important，more important，most important；
+    - interesting，more interesting，most interesting；
+  - 6、不规则变化，变化比较大
+    - goog/well，better，best；
+    - bad，worse，worst；
+- 不需要死记规则，多用，熟悉之后再回过头看规则
+- 形容词表
+
+比较级和最高级的用法
+
+- 形容词的比较级和最高级跟形容词的原级一样，作前置定语，表语，宾补
+  - I have a better way； 我有一个更好的方法，better 作前置定语
+  - she is my best friend； best 最高级，作前置定语
+  - She made me the happiest man in the world； the happiest man 是宾补，happiest 作前置定语
+  - Eating apples makes us healthy； 原级 healthy 作宾补
+  - Eating apples makes us healthier； 比较级 healthier 作宾补
+  - Nick can make the English class interesting/more/the most interesting; interesting 作宾补
+- 形容词的比较级和最高级作表语是最常见的，以下形容词比较级和最高级作表语的情况，句型
+  - 1、A 超过 B  当表示 A 事物（人）比 B 事物（人）强的时候，用以下句型
+    - A + be + 形容词的比较级 + than + B；
+    - 其中 A 是主格，B 可以是主格，也可以是宾格；
+    - than 是连接词，类似中文 “比” 的意思，than 和后面的词语一起构成比较状语；
+    - I am taller than he/him； 我比他高 （主语 + 系动词 + 表语 + 比较状语）
+    - She is fatter than me；
+    - My girlfriend is more beautiful than her；
+    - handsome，pretty 漂亮的，beautiful，gorgeous 迷人的，hot 性感的，cute 可爱的
+    - My book is cheaper than yours；
+    - My boss is richer than yours；
+    - My daughter is more beautiful than hers
+  - 2、A 不如 B  当表示 A 事物（人）不如 B 事物（人）强的时候，用以下句型
+    - A + be not + 形容词的比较级 + than + B；
+    - I am not taller than he；
+    - She is not fatter than me；
+    - My girlfriend is not more beautiful than her；
+  - 3、A 和 B 一样  当表示 A 事物（人）和 B 事物（人）一样的时候，用以下句型
+    - A + be + as + 形容词的原级 + as + B
+    - 前面 as 是连词，后面 as + B 作比较状语； 也是主系表结构
+    - I am as tall as him/he； 我和他一样高
+    - She is as fat as me/I；
+    - My girlfriend is as beautiful as her；
+    - My boss is as rich as yours；
+  - 4、A 是最什么的.....当表示在一定范围内，A 事物（人）是最厉害的，用以下句型
+    - A + be + the + 形容词的最高级 + 表示范围的词语
+    - 表示范围的词语，一般是介词短语构成
+    - He is the richest in Guangxi；
+    - The house is the highest in Guangzhou；
+    - I am the tallest in the class；
+    - She is the fattest in our class；
+    - My girlfriend is the most beautiful in my heart；
+    - He is the most famous in China；
+- 注意：形容词比较级和最高作表语，前置定语比较常见；但是，用原级作表语，前置定语，宾补的最常见；
+
+作业一： 四句
+
+1、A + be + 形容词的比较级 + than + B；
+
+要求：形容词性物主代词 + 可数名词单数 + is + 形容词的比较级 + than + 名词性物主代词/(限定词)可数名词单数/人称代词（主/宾格）
+
+示例：
+
+- My book is cheaper than yours(her pen);
+- My teacher is richer than she/her;
+- My book is dirtier than she 错；逻辑错误，人跟物比较是错的，只能人跟人比，物跟物比
+
+作业二：四句
+
+2、A + be not + 形容词的比较级 + than + B；
+
+- My book is not cheaper than yours(her pen);
+- My teacher is not richer than she/her;
+
+作业三：四句
+
+3、A + be as + 形容词的原级 + as + B；
+
+- his house is as big as mine;
+- his apple is as big as your orange
+- her father is as rich as you
+
+作业四：四句
+
+4、形容词性物主代词 + 可数名词单数 + is + the + 形容词的最高级 + in + 地名（拼音大写）
+
+- My friend is the richest in Guangxi
+- His house is the highest in Guangzhou；
+- their school is the most beautiful in Beijing；
