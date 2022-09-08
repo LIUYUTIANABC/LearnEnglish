@@ -1046,12 +1046,24 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
 - My teacher is richer than she/her;
 - My book is dirtier than she 错；逻辑错误，人跟物比较是错的，只能人跟人比，物跟物比
 
+我的作业：
+
+- Her hat is more beautiful than yours； His homework is clearer than hers；
+- My jacket is smaller than his coat； This orange is sweeter than that apple；
+- Oranges are sweeter than apples;
+
 作业二：四句
 
 2、A + be not + 形容词的比较级 + than + B；
 
 - My book is not cheaper than yours(her pen);
 - My teacher is not richer than she/her;
+
+我的作业：
+
+- I am not thinner than him； He is not younger than me；
+- Your dog is not stronger than hers； It is not whiter than my towel;
+- Our city is not cleaner than theirs;
 
 作业三：四句
 
@@ -1061,6 +1073,12 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
 - his apple is as big as your orange
 - her father is as rich as you
 
+我的作业：
+
+- Her flower is as red as yours; Your hot dog is as delicious as hers;
+- My king is as famous as him; The lake is as big as that sea;
+- Our boat is as fast as a car;
+
 作业四：四句
 
 4、形容词性物主代词 + 可数名词单数 + is + the + 形容词的最高级 + in + 地名（拼音大写）
@@ -1068,3 +1086,9 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
 - My friend is the richest in Guangxi
 - His house is the highest in Guangzhou；
 - their school is the most beautiful in Beijing；
+
+我的作业：
+
+- My dictionary is the largest in our class； His key is the dirtiest in the house；
+- Their factory is the busiest in Dongguan； Her book is the most famous in China；
+- The elephant is the biggest animal in the zoo；
