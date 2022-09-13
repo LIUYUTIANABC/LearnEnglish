@@ -1092,3 +1092,16 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
 - My dictionary is the largest in our class； His key is the dirtiest in the house；
 - Their factory is the busiest in Dongguan； Her book is the most famous in China；
 - The elephant is the biggest animal in the zoo；
+
+作业改错：
+
+- My teacher is higher than me 错，形容词用错； 形容人 高 不能用high 应该用 tall
+  - high 作表语，形容人吸毒，到一种兴奋的状态；
+- Their camera is as expensive as she 错；逻辑错误，物和人比较；
+- 当使用 more（many 的比较级） 作比较形容更多的时候
+  - My dress is not more than hers 错； my dress 表示的是一件衣服；
+  - more 只能作定语，不能作表语
+  - I have more dresses than she does 对的；
+- She's dictionary is thicker than yours 错；
+  - she's 不是所有格，she's 表示的是 She is，she was，she has 的缩写，应该加表语
+  - She's a student； She‘s beautiful；
