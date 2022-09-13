@@ -1105,3 +1105,35 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
 - She's dictionary is thicker than yours 错；
   - she's 不是所有格，she's 表示的是 She is，she was，she has 的缩写，应该加表语
   - She's a student； She‘s beautiful；
+
+## 第五课 动词
+
+动词的定义：表示动作或者心理行为的词语；
+
+- 动作行为：eat，play，drink
+- 心理行为：know，think，like 表示心理，没有动作，但也是动词
+- 中文和英语里面的动词不一定一样，所以，应该以英文词典为准
+- 动词表（96个）
+
+一、谓语动词和非谓语动词
+
+区别：谓语动词只可以作谓语，非谓语动词不能作谓语（可以作主语，表语，宾语等）
+
+- 谓语动词
+  - I eat an apple every day；eat 谓语；
+- 非谓语动词
+  - I want to eat an apple every day； want 谓语；to eat an apple 宾语；
+- 在英语里，任何句子，可以没有主语，必须有谓语
+  - 祈使句： open the door，please; open 谓语
+- 非谓语比较难，也很重要，后面会讲解；
+- 谓语动词有四种：实义动词，系动词，助动词和情态动词
+
+二、实义动词也称为 行为动词
+
+- 实义动词：有实际意义的动词，分为：
+  - 及物动词：后面必须加宾语，即动作的对象或者承受者
+    - buy，
+  - 不及物动词
+- 英文中大部分动词都有实际意义
+  - 少数没有意义比如：系动词，助动词，情态动词，
+  - 其他的都是实义动词
