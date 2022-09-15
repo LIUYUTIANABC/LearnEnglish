@@ -1128,12 +1128,89 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
 - 非谓语比较难，也很重要，后面会讲解；
 - 谓语动词有四种：实义动词，系动词，助动词和情态动词
 
-二、实义动词也称为 行为动词
+二、实义动词也称为行为动词
 
-- 实义动词：有实际意义的动词，分为：
-  - 及物动词：后面必须加宾语，即动作的对象或者承受者
-    - buy，
-  - 不及物动词
 - 英文中大部分动词都有实际意义
-  - 少数没有意义比如：系动词，助动词，情态动词，
-  - 其他的都是实义动词
+  - 少数没有意义比如：系动词，助动词，情态动词，其他的都是实义动词
+
+实义动词：有实际意义的动词，分为：及物动词和不及物动词
+
+- 及物动词：后面必须加宾语，即动作的对象或者承受者
+  - 使用及物动词，后面必须加宾语；或者某些双宾动词，后面跟两个宾语
+  - 比如：buy，必须加买什么东西
+- 不及物动词：后面不需要加宾语
+  - 意思已经完整，加了宾语是错的
+  - 比如：work，I work every day；
+  - live，不及物动词，不能加宾语； I live Beijing 错； I live in Beijing 对；
+  - 五个基本句型的第一个： 主语 + 谓语（不及物动词） + 状语； I work today；
+- 不及物动词不多，大部分动词是及物动词
+- 有很多动词既可以作及物动词也可以作不及物动词；
+  - 通过意思区分：这种动词表示及物动词和不及物动词的时候，意思是不一样的
+  - 比如：run；作不及物动词 “跑步 I run every morning；
+  - run 作及物动词 “经营，管理” I run a website； 我经营一个网站
+  - 这种动词需要慢慢积累，死记硬背效率不高；
+
+实义动词的五种形式
+
+- 五种：原形，过去式，过去分词，现在分词，第三人称单数格式
+- 比如：work，worked，working，works，都是工作的意思，意思没变
+- 不同的时态，使用不同的动词形式；
+- 过去式，过去分词，现在分词，第三人称单数格式 都是通过原型变化而成的
+  - 变化规则：
+  - 一般是词尾变化，过去式和过去分词是一样的，都是后面加 ‘ed’
+  - 现在分词在原型后加 ‘ing’
+  - 第三人称单数在原型后加 ‘s’
+  - 比如：work，worked，worked，working，works； 原型，过去式，过去分词，现在分词，三单
+  - learn，learned，learned，learning，learns；
+  - 有些不规则变化：
+  - 结尾为 e 的直接加 ‘d’; used,wasted
+  - 双写结尾字母：stopped，planned 计划；permit 允许；
+  - 以 y 结尾的，变 y 为 i 加 ed
+  - 还有一些，不详细记录，不用死记硬背，在使用中积累；
+  - 可以查看：不规则动词表；
+- 过去式和过去分词的区别：过去式用在一般过去时态中，过去分词用在被动语态或过去完成时态中
+
+系动词：连系动词
+
+- 只有一个作用：跟表语构成 系表结构 作状态型谓语
+- 系动词不能单独使用，必须跟表语一起用，同时，表语也不能单独使用
+- 最常用的系动词就是 be 有 8 种形式，都是一个意思 ‘是’
+  - 1、原型 be 用于组动词和情态动词后面，或者用在动词不定式里面
+    - She will be a nurse next month
+  - 2、第一人称后面的 am
+    - I am a teacher；
+    - 注意：只有一般现在时态里面 I 后面才能用 am
+  - 3、第三人称单数格式 is
+    - she is a student
+  - 4、You 和复数后面用 are
+    - you are great
+  - 5、单数的过去式格式 was
+    - he was a boos before；
+  - 6、复数的过去式格式 were
+    - they were farmers before；
+  - 7、过去分词格式 been
+    - I have been a teacher for three years （用于完成时态）
+  - 8、现在分词格式 being
+    - a bridge is being built （被动语态）
+- 除了 be 还有少数实义动词可以充当系动词
+  - 但是，这些实义动词作系动词的意思和实义动词的意思是不同的
+  - look，实义动词 看，look at 看...; look at the room;
+  - look, 系动词 看起来，一般后面跟形容词作表语： you look beautiful;
+  - 这些借过来的系动词有三个特点
+    - 1、是实义动词，充当系动词
+    - 2、作为系动词，意思发生改变
+    - 3、一般来说，这些动词必须跟形容词作表语
+  - 所以，判断是实义动词，还是系动词，通过判断后面是否跟形容词来确定
+  - You look beautiful；look 充当系动词，属于主系表结构
+  - 这些充当系动词的实义动词有以下两类
+    - 1、表示状态：
+    - keep，stay，look，smell，taste，sound，feel，appear 看来好像；seem 好像是；
+    - remain 仍然是；continue 仍旧，保持，prove 证明是；
+    - You look tired 你看起来很疲倦；
+    - The tea tastes sweet；
+    - The rose smells good；
+    - It sounds great；
+    - Keep quiet!    Stay calm;
+    - I feel great;     I feel good;
+    - 2、表示结果：
+    -
