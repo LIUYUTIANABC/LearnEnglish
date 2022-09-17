@@ -1170,7 +1170,7 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
   - 可以查看：不规则动词表；
 - 过去式和过去分词的区别：过去式用在一般过去时态中，过去分词用在被动语态或过去完成时态中
 
-系动词：连系动词
+三、系动词：连系动词
 
 - 只有一个作用：跟表语构成 系表结构 作状态型谓语
 - 系动词不能单独使用，必须跟表语一起用，同时，表语也不能单独使用
@@ -1213,4 +1213,78 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
     - Keep quiet!    Stay calm;
     - I feel great;     I feel good;
     - 2、表示结果：
-    -
+    - become，turn，get，grow，go，come，fall，run，意思是 ‘变成’
+    - he got angry；got 是得到，但是在这里，跟形容词，充当系动词，那么意思就变了；他变生气了
+    - The milk will go bad；go 是走，这里系动词，为变坏了
+    - She went crazy；她变疯了
+    - Your dream will come true one day； come true 变成真
+    - The leaves turned green； 变绿
+    - His face turned red；变红
+    - I became famous； 变出名
+
+四、助动词（结构助词）：本身没有意义，作用是帮助实义动词或系动词构成复合谓语，或者构成疑问句，否定句，各种时态，语态，语气；
+
+- 具体用法：在时态和语态章节详细介绍
+- 常用的助动词有：be，do，have，will，would，shall，should
+  - be（包括其他形式）
+  - do（did，does）
+  - have（has，had）
+  - 是从系动词和实义动词那里借过来的，充当助动词的时候没有意义
+- 助动词三个特点
+  - 1、没有意思
+  - 2、不能单独使用，必须构成其他各种结构
+  - 3、没有专门的助动词，都是从其他动词借过来的
+- I am working now； 我现在正在工作；
+  - 现在进行时态的句子，这里的 ‘am’ 属于助动词，不是系动词；
+  - 系动词后跟表语（形容词，名词，介词短语），描述状态，这里跟的是现在分词，描述的是正在进行时
+  - am 作系动词的时候，是有意思的，‘是’ I am a student； 我是一个学生
+  - 作助动词，就没有意思，作用是跟动词的现在分词构成现在进行时态
+  - 所以，这里的 am 时助动词，不是系动词；
+- Do you love me； 你爱我吗
+  - do 没有意思，帮助构成一般疑问句，是从实义动词借过来的助动词
+- I do not love you； 我不爱你
+  - do 没有意思，帮助构成一般现在时态否定句
+- I did not love you；我以前不爱你
+  - did 没有意思，帮助构成一般过去时态否定句；
+- She does not love you；她不爱你
+  - does 没有意思，帮助构成一般现在时态另一种定句；
+- I have learned English for ten years； 我已经学英语十年了
+  - have 没有意思，跟动词的过去分词 learned 一起构成现在完成时态；have 是从实义动词借过来的助动词
+- She has known you for ten years；
+- I have eaten dinner；
+- I do love you;
+- 等等 在时态章节介绍
+
+五、情态动词：作用是跟动词原型（包括动词短语原型，系动词be）构成复合谓语；情态动词本身有意义，但不完整
+
+- 详细介绍在第 16 课
+- 情态动词不能单独出现
+- can 能，会；could can的过去式；may 可以，might may 的过去式，
+- 情态动词的特点
+  - 1、情态动词必须跟动词原型构成复合谓语
+  - 2、情态动词是有意义的，虽然意思不完整
+  - 3、有专门的情态动词，不需要借用其他动词
+  - 4、情态动词一般不能跟助动词连用
+- 情态动词使用情况：
+  - 当我们需要表达情态动词的意义，比如 必须，能，应该 等的时候，可以加上一个相应的情态动词，构成复合谓语
+  - I earn money every day; 没有情态动词，每天赚钱
+  - I mush earn money every day；加一个情态动词 must；我每天必须赚钱；must earn 复合谓语
+  - 情态动词 + 动词原形
+  - 情态动词不是非加不可，当需要强调感情，态度的时候可以加
+  - I help you； 我帮你
+  - I should help you; 我应该帮你，主谓宾结构； should help 复合谓语
+  - I can help you；我可以帮你
+  - I do homework； 主谓宾，do 谓语动词，homework 不可数名词
+  - 主系表也可以加情态动词
+  - I am happy every day； am happy 状态型谓语
+  - I must am happy every day 错；我一定要开心；但是，情态动词必须跟原型，am 的原型是 be
+  - I must be happy every day 对；must be happy 状态型复合谓语
+  - I am a good teacher；
+  - I should be a good teacher；我应该是一个好老师
+  - I can be a good teacher；我能成为一个好老师
+  - you are hungry；    you must be hungry；
+  - I can earn money；    I can speak English;
+  - You should be happy;    He should find a girlfriend; 他应该找个女朋友
+  - I must go now；    I have to go； 我必须走了
+
+动词涉及到谓语，谓语涉及到时态，在学完时态之后在复习动词这一章节，掌握的更好；
