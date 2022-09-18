@@ -1288,3 +1288,176 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
   - I must go now；    I have to go； 我必须走了
 
 动词涉及到谓语，谓语涉及到时态，在学完时态之后在复习动词这一章节，掌握的更好；
+
+## 第六课 冠词
+
+冠词：是一种虚词，没有词义，没有数和格的变化，不能单独使用，只能帮助名词或者名词含义的其他词类，说明其意义；
+
+- 冠词分为：定冠词 the（这，这些） 和 不定冠词 a,an（一） 两大类
+  - a,an 中，发音辅音开头用 a，发音元音开头的用 an
+  - 元音：a，e，i，o，u
+  - 这里的元音和辅音是指音标的发音，不是首字母
+  - a book 一本书； a pan 一支笔； a car；
+  - a university 一所大学；university 是辅音开头发音 [j]
+  - an apple； an hour 发音是元音 hour[a]； an egg；
+- 注意：如果修饰名词的定语，可以是形容词，名词，如果这个定语的发音是元音，也要用 an
+  - a man 对； a old man 错； an old man 对；
+  - a book 对； a English book 错； an English book 对；
+  - a old book 错； an old book 对；
+- 注意：the 有两种发音
+  - 第一种：the house; the book;
+  - 第二种：the apple; in the end;
+  - 在口语中需要注意
+
+一、不定冠词 a,an 的用法
+
+- 1、首次提到某人或某物，并非特指，用不定冠词 a，an 起介绍作用
+  - He is a doctor；
+  - I am a teacher；
+  - He is studying in a university；
+  - I bought a book yesterday；
+  - A beautiful girl likes you；
+  - She eats an egg every morning；
+  - 注意：a，an 只能跟可数名词单数，不能跟不可数名词，也不能跟可数名词复数
+  - a news 错；a water 错；a people 错；a books 错；
+- 2、在单数普通名词前，指一类人或者事物，不必翻译
+  - An ear is an organ for listening；an ear 泛指 耳朵，不是指一个耳朵
+  - A fox is a cunning animal；a fox 泛指 狐狸，不是指一只狐狸
+  - A dog is a cute animal；a dog 泛指狗
+  - 单数表示泛指的不多，常用复数表示泛指：Dogs are cute animals
+- 3、用在表示时间或者度量单位的可数名词单数的前面，表示 每一个 的意思
+  - 注意：必须是时间或度量单位，其他名词不行
+  - 时间名词：
+    - second，minute，hour，morning
+    - noon 中午，afternoon，evening 傍晚，night 夜晚
+    - day，month，year，week，season 季度；
+  - 度量单位名词：
+    - centimeter 厘米；meter 米；yard 码；kilogram 公斤
+    - kilometer 千米；pound 磅；inch 英寸；mile 英里；
+  - 当 a，an 在以上时间或度量单位的名词单数前面，表示的是 每一个
+    - a day = every day 每天；
+    - an hour = every hour 每小时
+    - a month = every month； 每月
+  - 但是，只有作时间状语，才能表示 每一 的意思
+    - I teach English a day = I teach English every day
+    - I eat an apple a day = I eat an apple every day；
+    - He earns two thousand yuan a month；他每一个月赚两千块
+    - The train is running sixty miles an hour； 火车每小时行驶 60 英里；
+- 其他用法：不用记，特殊用法
+  - It is an honour for me to speak here；
+  - 表示说话人对此人不认识
+  - Our teacher is a Miss White；
+  - A Mr.Chen came to see you；
+  - 固定短语里面的不定冠词：
+  - once upon a time 从前； a long time 很久； a little/a few 一些
+  - have a look 看一看；have a walk 散步；have a smoke 抽一支烟
+  - take a bath/shower 洗澡；turn a deaf ear to = don‘t listen to 不听
+  - He turned a deaf ear to me 他不听我的话
+  - many a time = many times 很多次
+  - take a rest 休息一下；
+- 总结：当想表达 一个人，一个动物，一个事物的时候用 a，an
+  - she has a cat； 主谓宾
+  - she meets a boy； 主谓宾
+  - She is a teacher； 主系表
+  - He is a policeman； 主系表
+
+二、定冠词 the 的用法
+
+- 1、在普通单数名词前指一类人或者事物，不必翻译，跟不定冠词的第二种用法一样
+  - The ear is an organ for listening；an ear 泛指 耳朵，不是指一个耳朵
+  - The fox is a cunning animal；a fox 泛指 狐狸，不是指一只狐狸
+  - The dog is a cute animal；a dog 泛指狗
+  - 另外，表示一类人或者事物，还可以用名词的复数表达，更常用
+  - Foxes are cunning animals； 狐狸是狡猾的动物
+  - Dogs are cute animals； 狗是可爱的动物
+- 2、在重新提及的人或者事物前，含有 "这，这些" 的意思，可以修饰可数名词单数，复数，也可以修饰不可数名词
+  - The apple 这个苹果； The apples 这些苹果；
+  - 一定是重新提及的，之前有说过，后面又提及
+  - 比如：
+  - I bought a book yesterday，The book is interesting； The book 是之前提及的
+  - I met a man in the library，the man is handsome； the man 是特指前面提到的男人
+  - I know a friend，the friend is a doctor；
+  - She bought three pencils，the pencils are for her daughter； the 修饰复数 pencils
+  - I drank tea just now，the tea is very good； the 修饰不可数名词 tea
+- 3、在谈话双方都知道的人或物前面，同样可以修饰可数名词单数，复数，不可数名词
+  - pass me the book，please
+  - pass me the books，please! 可以翻译成这些说，和这书
+  - Pass the salt to me，please 请把这盐递给我
+- 4、在有限定性后置定语修饰的名词前
+  - the people in the park 在公园里面的人
+  - the girl in red 穿红色衣服的女孩
+  - the price of the house 房子的价格
+  - 带有介词短语作限定性后置定语，都要加定冠词 the
+  - The girl dancing with my brother is his sister； dancing with my brother 动名词短语作 the girl 的限定性后置定语，所以，girl 要加 the；
+- 注意：以上第2，3，4种定冠词 the 的用法是最重要也是最常用的。
+- 这三种用法，可以归为一类：凡是特指的名词，都要加定冠词 the，不管是可数名词单数，复数，还是不可数名词
+- 5、在序数词前面
+  - the first 第一； the second 第二； the third 第三；
+- 6、在世界上独一无二的事物的名词前
+  - the earth； the sun； the world； the moon；
+- 7、在表示时间或其他情况的习惯用语
+  - in the end； in the morning/afternoon/evening; the same 同样；
+- 8、在形容词和副词的最高级前
+  - the most important 最重要； the best；
+  - His family is about a mile from the nearest river； 他家离最近的河大概一英里远
+- 9、在某些形容词前，变成名词
+  - the old 老人； the young 年轻人； the poor； the rich； the weak； the wise 智者；
+- 10、姓氏复数前，表示一家人或者夫妇
+  - The Smiths 史密斯一家人/史密斯夫妇； The Chens 陈家/陈家夫妇
+  - The Whites 怀特一家人/怀特夫妇；
+- 11、在西洋乐器的名称前
+  - the piano 钢琴； the guitar 吉他； the violin 小提琴；
+- 12、在某些专用名词前
+  - 1）由普通名词或形容词构成的专有名词前带 the
+    - The Great Wall 长城； the Summer Palace 颐和园； The United States 美国；
+  - 2）普通名词 + 专有名词 或 专有名词 + 普通名词
+  - The Yellow River 黄河； The West Lake 西湖； The English Channel 英吉利海峡
+  - The Sahara Desert 沙哈拉沙漠；
+  - 等等...
+  - 他们都是专有名词，固定搭配
+
+三、不使用冠词的场合
+
+- 1、专有名词（人名，地名，国名，节日，月份，星期几，季节）前面
+  - 人名：Marx 马克思；kate 凯特；Nick 尼克；
+  - 地名：Guangdong 广东; Asia 亚洲； Beijing 北京；
+  - 国名：China 中国； Germany 德国； America 美国； Japan 日本；
+  - 节日：National Day 国庆节； Spring Festival 春节；Christmas 圣诞节；Saint Valentine's Day 情人节
+  - 月份：一月 January - 十二月 December
+  - 星期几： Monday, Sunday 星期天；....
+  - 季节：Spring, Summer，Autumn， Winter；
+- 2、可数名词复数或者不可数名词表示泛指意义而不是特指意义的时候
+  - books, water, beer, friends;
+  - They are teachers，not students
+  - 这里要注意，使用冠词修饰 The books，the water 是特指，当表示泛指的时候不能加冠词 books，water
+  - The teachers are great 这里不是表示，老师是伟大的，而是表示，这些老师是伟大的，特指这些老师
+  - Water is important 水指重要的，指所有的水；
+  - The water is important 这些水是重要的，特指这里的水，加冠词 the；
+  - They are soldiers 他们是士兵
+  - They bake the cookies every day 错；这里想表达，他们天天烤面包，实际意思：他们天天烤这些面包
+  - They bake cookies every day 对； 不能乱加冠词，会影响意思；
+- 3、称呼语
+  - Good morning, guys! 大家 早上好；
+  - Where is Uncle Tom？ 不是 the Uncle Tom
+  - Father/Daddy 爸爸；
+  - Mother/mommy 妈妈；
+- 4、表示职位，身份，头衔的名词前面
+  - President Lincoln 林肯总统； Dr.Huang 黄博士
+- 5、物质名词或抽象名词前面
+  - Failure is the mother of success 失败是成功之母；Failure 和 success 抽象名词
+  - Health is happiness 健康就是幸福；抽象名词
+  - Desks are made of wood；书桌是用木头做的， Desk 和 wood 物质名词；
+- 6、表示学科，疾病，球类，游戏，颜色，感官名称的名词前
+  - Economics is different from politics 经济学不同于政治学；
+  - English is an important subject in Chinese schools；
+  - He died of cancer two years ago 他两年前死于癌症；
+  - I like basketball 我喜欢篮球；football，baseball，tennis
+  - Play basketball 打篮球；Play the basketball 强调玩一个球，不是指篮球这项运动
+  - Do you like chess 你喜欢象棋吗
+  - She likes playing mahjong 她喜欢打麻将；
+  - Red is a beautiful color 红色是美丽的颜色； blue，green，pink，black，white,yellow
+  - Small is one of the five senses 嗅觉是五种感官之一；
+- 注意：有些表示疾病的名词需要加不定冠词 a，an
+  - fever 发烧，headache 头疼；cough 咳嗽；cut 刀伤；wound 伤口；pain 痛；cold 感冒
+  - I had a fever last night； I have a cold； I have a headache；
+  - She has a bad cold 她得了重感冒；
