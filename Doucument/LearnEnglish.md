@@ -1461,3 +1461,34 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
   - fever 发烧，headache 头疼；cough 咳嗽；cut 刀伤；wound 伤口；pain 痛；cold 感冒
   - I had a fever last night； I have a cold； I have a headache；
   - She has a bad cold 她得了重感冒；
+- 7、表示餐名（breakfast，lunch，supper 晚餐，dinner 正餐）的名词前不用冠词
+  - Dinner is ready； Did you have breakfast？
+  - What did you have for supper？ 你们晚餐吃了什么
+  - I cook/make breakfast every day
+  - 注意：如果具体指某顿饭时要用冠词：
+  - The breakfast I ordered is not ready; 我订的早餐还没有准备好，特指 我订的早餐，I ordered 是定语从句作后置定语
+  - That was a very hearty supper；那是一顿非常丰盛的晚餐
+  - I like a light breakfast； 我喜欢清淡的早餐；
+- 8、与 by 连用的表示交通工具的名词前
+  - by bike骑自行车; by bus 乘公车; by train 坐火车;
+  - by plane /air 乘飞机; by ship/boat乘船/小船; by land/sea由陆路/海路
+  - 注意：是介词 by 的固定用法；属于介词短语，不能拿来作谓语，一般作状语
+  - I by bike to ZhuHai 错；I went to ZhuHai by bus 对；
+- 9、如果一个名词前面已经有 形容词性物主代词, 名词所有格(‘s), 指示代词, 疑问词以及 some,little,both,each,either,few,a few,a little,any,no,another,every,much ,many 等不定代词 作定语的时候不可以用冠词
+  - 1）Nick's book 尼克的书（不能说Nick’s a book,
+  - 如果要表达，Nick的一本书，需用双重所有格：a book of Nick’s）  
+  - 2）my book我的书 （不能说my a book或者my the book）
+  - 3）that book那本书（不能说，that a book或者that the book）
+  - 4）whose book is this?这是谁的书？（不能说，whose a book或者whose the book）
+  - 5）some place某个地方（不能说，some a place或者some the place）
+  - 6）another book另一本书(不能说，another a book或者another the book)
+  - 7）I have no book.我没有书。（不能说，I have no a/the book ）
+- 注意：一个可数名词单数，不能单独使用，要加限定词，或冠词，或 变复数
+  - 这里的冠词不是限定词，冠词和限定词有冲突，是同一个级别的
+  - 限定词：形容词性物主代词，'s 的名词所有格，指示代词，数词，疑问词，不定代词；
+  - 有限定词修饰就不能用冠词，冠词和限定词不能同时存在；
+  - She is teacher 错； She is a teacher 对； She is Nick's the teacher 错；
+  - This is my a apple 错；
+
+四、用冠词和不用冠词的差异
+
