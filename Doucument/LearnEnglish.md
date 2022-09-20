@@ -1492,3 +1492,31 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
 
 四、用冠词和不用冠词的差异
 
+- 在某些习惯用语中，用还是不用冠词，意义不同，有时候甚至差别很大，使用时要特别注意，如：
+  - 以下只需要多看，不用死记硬背，没有什么规则可言，就是习惯用语，记就行了；
+  - 1.at table 进餐 / at the table 在桌子旁边
+  - 2.in hospital 住院 / In the hospital 在医院里
+  - 3.by sea 乘船、由海路 / By the sea 在海边
+  - 4.go to sea 当水手 / go to the sea 去海边
+  - 5.in future 从今以后，将来 / In the future 未来
+  - 6.on earth 究竟 / On the earth 在地球上，在世上
+  - 7.go to school 上学（主语是学生） / go to the school 到学校去
+  - 8.take place 发生 / take the place of 代替。。
+  - 9.two of us 我们当中的两个人 / the two of us 我们两人（只有两人）
+  - 10 out of question 毫无疑问，一定 / Out of the question 不可能
+  - 11.in front of (外部)在….前面 / in the front of (内部)在….前面
+    - the tree is in front of my house 这棵树在我家的前面。
+    - the blackboard is in the front of the classroom 黑板在教室的前面。（黑板还是在教室里面，所以用in the front of）
+- 总结：
+  - 不能加冠词的 a，an，the 的 9 种
+  - 第一点：人名，地名，星期几，月份
+  - 第二点：可数名词复数，不可数名词，因为可以加冠词，也可以不加，要注意，加和不加意思会发生改变，不能乱加冠词；
+  - 第三点：球类，疾病，餐名...
+  - 第四点：最重要，限定词不能跟冠词冲突，不能同时使用；
+
+如何学好冠词：
+
+- 冠词是英语一个很重要的词语，70% 以上的名词前面需要加冠词；
+- 写作的时候经常会忘记在名词前面加冠词；
+- 冠词本身不难，要养成使用冠词的意识；
+- 方法：多阅读，看以上规则，写作用错了，再看以上规则，再错，再巩固，形成冠词有意识；
