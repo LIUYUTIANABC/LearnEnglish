@@ -1520,3 +1520,71 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
 - 写作的时候经常会忘记在名词前面加冠词；
 - 冠词本身不难，要养成使用冠词的意识；
 - 方法：多阅读，看以上规则，写作用错了，再看以上规则，再错，再巩固，形成冠词有意识；
+
+## 第七课 一般现在时态
+
+之前学习了：名词，代词，形容词，动词，冠词；已经可以开始造句了
+
+英语的句子包含时态，这是与中文的区别，什么是时态：就是动作或状态发生的时间
+
+- I bought a book yesterday； 一般过去时
+- I will buy a book tomorrow； 一般将来时
+- I buy a book every day； 一般现在时
+- 谓语动词发生了变化：bought；will buy；buy；相同的动作，不同的时间，简称时态
+
+英语常用的 10 种时态：一般现在时态，一般过去时态，一般将来时态，现在进行时态，现在完成时态，过去完成时态，过去将来时态，过去进行时态，现在完成进行时态，将来进行时态。
+
+本教程先讲五种最简单常用的时态：一般现在时态，一般过去时态，一般将来时态，现在进行时态，现在完成时态
+
+主谓宾（表示动作），主系表（表示状态） 的时态使用方法是完全不一样的，所以，每个时态，都要学习这两种句型
+
+一般现在时态：
+
+- 主语 + be + 表语
+  - be：is/are/am 单数用 is；复数用 are；I 用 am
+  - 细分的小句型：
+    - 1、人称代词主格（主语）+ is/ are/ am + 形容词（表语）
+    - 2、名词（主语）+ is/ are + 形容词（表语）
+    - 3、人称代词主格（主语）+ is/ are/ am + 名词（表语）
+    - 4、名词（主语）+ is/ are + 名词（表语）
+- 1、人称代词主格（主语）+is/ are/ am +形容词（表语）
+  - 人称代词主格：I，you，he，she，it，we，they
+  - 固定搭配：I am； You are； She is； He is； It is； We are； They are
+  - 任意形容词：1.Happy快乐的 2.rich有钱的 3.Busy 忙的 4. famous 出名的
+  - 固定搭e happy.你快乐配 + 任意形容词 就构成句子
+    - 1）I am happy. 我快乐
+    - 2）you are
+    - 3）she is rich.她有钱
+    - 4）he is busy.他忙
+    - 5）it is famous.它是著名的（它=可能是某产品）
+    - 6）we are famous. 我们出名
+    - 7）they are busy.他们忙
+    - 但是注意逻辑：I am cloudy 我多云，逻辑错误；
+  - 注意：is/are/am 意思是 “是”，但一般翻译的时候不翻译 是，很别扭
+- 2、名词（主语）+ is/are + 形容词（表语）
+  - 第一种情况：专有名词里面的人名和地名作主语的时候，一个人名或一个地名作主语用“is”。比如：
+    - 1）Nick is busy.尼克忙。
+    - 2）Nick is famous.尼克出名。
+    - 3）Guangxi is famous.广西出名。
+    - 4）Beijing is big. 北京大。
+    - 如果是并列的人名或地名作主语，则用“are”：
+    - 1）Nick and Jack are busy.尼克和杰克忙。
+    - 2）Guangzhou and Beijing are big.广州和北京大。
+  - 第二种情况：可数名词单数作主语，用“is”，但是要注意可数名词单数不能单独使用，要考虑加限定词或冠词。
+    - 1）The student is happy. 这个学生开心。 
+    - 2）This student is happy. 这个学生开心。
+    - 3）My student is rich. 我的学生有钱。
+    - 4）Nick’s student is busy. 尼克的学生忙。
+    - 5）The banana is cheap/delicious.这香蕉便宜/好吃。
+    - 注意：先确定 名词+限定词，再选择 is/are，再加形容词表语
+  - 第三种情况：可数名词复数作主语，用“are”，可数名词复数直接作主语，强调泛指，如果是特指，依然需要考虑加定冠词或限定词。
+    - 1）Teachers are busy.老师忙。（泛指大部分老师）
+    - 2）The teachers are busy.这些老师忙。（特指这些老师）
+    - 3）The students are busy.这些学生忙。
+    - 4）My students are busy.我的学生忙。
+    - 注意：要符合逻辑，复数泛指全世界，加定冠词 the，this 表示特指
+    - 注意：My，the，Nick‘s 是可以加复数的
+  - 第四种情况：不可数名词作主语，属于单数概念，用“is”，不可数名词直接作主语，也是强调泛指，如果是特指，依然需要考虑加定冠词或限定词。
+    - 1）Water is important.水是重要的。（泛指大部分的水）
+    - 2）Oil is expensive.油贵。（泛指大部分的油）
+    - 3）The water is important.这水是重要的。（特指这部分水）
