@@ -1588,3 +1588,93 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
     - 1）Water is important.水是重要的。（泛指大部分的水）
     - 2）Oil is expensive.油贵。（泛指大部分的油）
     - 3）The water is important.这水是重要的。（特指这部分水）
+- 3、人称代词主格（主语）+ is/ are/ am + 名词（表语）
+  - 名词作表语有两种
+  - 第一种，人名： I am Nick； He is Tony；
+  - 第二种，表示职业身份的名词，注意这种名词时可数名词，要加限定词
+    - 1）I am a doctor 我是医生。
+    - 2）You are a student 你是学生。
+    - 3）you are students 你们是学生。
+    - 4）She is a nurse.  她是护士
+    - 5）She is my student 她是我的学生
+    - 6）He is Nick’s student 他是尼克的学生
+    - 7）It is my room 这（它）是我的房间 （it可以指代事物，所以表语也可以表示事物
+    - 8）It is my dog 这（它）是我的狗
+    - 9）They are teachers 他们/她们是老师
+    - 10）They are my teachers 他们/她们是我的老师
+    - 11）We are students/guides/actors 我们是学生/导游/演员
+- 4、名词（主语）+ is/ are + 名词（表语）
+  - 主语和表语都是名词；这里都需要考虑名词的规则，可数名词加限定词
+  - 第一种情况：专有名词里面的人名和地名作主语的时候，一个人名或一个地名作主语用“is”。比如：
+    - 1）Nick is a teacher 尼克是老师
+    - 如果是并列的人名或地名作主语，则用“are”：
+    - 2）Nick and Jack are teachers  尼克和杰克是老师
+  - 第二种情况：可数名词单数作主语，用“is”。但是要注意可数名词单数不能单独使用，要考虑加限定词或冠词。
+    - 主语表身份的名词，表语用表示职业的名词；主语表示职业的名词，表语用表示身份的名词
+    - 3）My father is a farmer 我父亲是农民； The farmer is my father
+    - 4）His sister is a nurse 他姐姐是护士
+    - 5）My teacher is Nick 我老师是尼克
+    - 6）The doctor is my brother 这医生是我兄弟
+  - 第三种情况：可数名词复数作主语，用“are”。可数名词复数直接作主语，强调泛指。如果是特指，依然需要考虑加冠词或限定词。
+    - 7）The teachers are my friends 这些老师是我的朋友
+    - 8）My students are bosses   我的学生是老板
+    - Nick's fans are students; These students are Nick's fans;
+  - 第四种情况，不可数名词作主语，用“is”。不可数名词可以直接作主语，强调泛指。如果是特指，依然需要考虑加定冠词或限定词。
+    - 9）Rice is important food（泛指） 大米是重要的食物
+    - 10）The rice is my breakfast（特指）这些大米是我的早餐
+
+“主语+be+表语”句型在一般现在时态里面变否定句的规则:
+
+- 这个规则非常简单，只要在肯定句 be (is /are /am)后面加一个否定词 “not”就可以了。“is not”和“are not”可以缩写为“isn’t”和“aren’t”，请看下面的例子：
+  - 肯定句：I am a teacher.  我是老师;  否定句：I am not a teacher.我不是老师
+  - 肯定句：She is pretty .  她漂亮;  否定句：She is not/isn’t pretty.   她不漂亮 
+  - 肯定句：You are great.  你伟大;  否定句：You are not /aren’t great.  你不伟大
+  - 肯定句：They are farmers.他们是农民;  否定句：They are not farmers 他们不是农民
+  - 肯定句：We are students.  我们是学生;  否定句：We are not students 我们不是学生
+  - 肯定句：It is a book.  这是一本书;  否定句：It is not a book.  这不是一本书
+
+“主语+be+表语”句型在一般现在时态里面变一般疑问句的规则:
+
+- 这个规则也很简单，只要把肯定句里面的be（is/ are /am）移到句首，加问号就可以了。不过，有时候，要根据实际情况，把主语的人称改变一下，因为人称改变了，be（is /are /am）也要根据人称的变化而发生变化，请看下面例句：
+  - 肯定句：I am a teacher    我是老师。
+    - 疑问句：Are you a teacher? 你是老师吗？
+    - （注意，一般不说，Am I a teacher？不会自己问自己的。因为主语人称发生了变化，主语换成了you,系动词跟着变成are ）
+    - 肯定回答：yes,I am  是的，我是
+    - 否定回答：no.I am not不，我不是
+  - 肯定句：She is pretty .她漂亮  
+    - 疑问句：Is she pretty? 她漂亮吗？ 
+    - 肯定回答：yes ,she is 是的，（她漂亮）
+    - 否定回答：no, she is not(isn’t)不，（她不漂亮）括号的文字，中文里面不需要翻译的。
+  - 肯定句：You are great.  你伟大
+    - 疑问句：Are you great? 你伟大吗？
+    - 肯定回答：yes ,I’m  是的，我伟大  
+    - 否定回答：no,I am not不，我不伟大
+  - 肯定句：They are farmers.他们是农民
+    - 疑问句：Are they farmers？他们是农民吗？
+    - 肯定回答：Yes，they are .是的，他们是
+    - 否定回答：no ,they are not不，他们不是
+  - 肯定句：We are students.  我们是学生
+    - 疑问句：Are you students？你们是学生吗？
+    - 肯定回答：Yes，we are 是的，我们是
+    - 否定回答：no，we are not（aren’t）不，我们不是
+  - 肯定句：It is a book.  这是一本书 
+    - 疑问句：Is it a book？ 这是一本书吗？ 
+    - 肯定回答：Yes,It is, 是的 
+    - 否定回答：no ,it isn’t 不，不是
+
+总结：
+
+- 一般进行时中，主系表结构，核心变化是 系动词的变化； 主语决定系动词格式，主语是核心，要分清主语
+- My sister is young； Are your sister young？ 错；
+- 主语是sister；your 是形容词性物主代词，唯一的作用是作定语；sister 是单数
+- Is your sister young？ 对；
+
+作业一：
+
+- 1、人称代词主格（主语）+ is/ are/ am + 形容词（表语）； 变一般疑问句和否定句，回答；造 4 句话
+- 2、名词（主语）+ is/ are + 形容词（表语）； 变一般疑问句和否定句，回答；造 4 句话
+- 3、人称代词主格（主语）+ is/ are/ am + 名词（表语）； 变一般疑问句和否定句，回答；造 4 句话
+- 4、名词（主语）+ is/ are + 名词（表语）； 变一般疑问句和否定句，回答；造 4 句话
+
+造句建议：先确定主语，符合名词，人称代词主格的规则；再确定系动词；再加符合逻辑的表语
+检查作业：第一：钉死可数名词；第二，检查时态结构；第三，检查逻辑；
