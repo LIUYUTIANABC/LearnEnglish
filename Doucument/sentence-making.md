@@ -188,3 +188,22 @@ breakfast，lunch，supper 晚餐，dinner 正餐
 | 6    | red         | 无               | 无               |
 | 7    | white       | whiter           | whitest          |
 | 8    | yellow      | 无               | 无               |
+
+## 一般现在时
+
+- 主系表：
+  - 1、人称代词主格（主语）+ is/ are/ am + 形容词（表语）
+  - 2、名词（主语）+ is/ are + 形容词（表语）
+    - 专有名词作主语用 “is”；并列的人名或地名作主语，则用“are”；
+    - 可数名词单数作主语，用“is”
+    - 可数名词复数作主语，用“are”
+    - 不可数名词作主语，属于单数概念，用“is”
+  - 3、人称代词主格（主语）+ is/ are/ am + 名词（表语）
+  - 4、名词（主语）+ is/are + 名词（表语）
+
+```
+This is a little story;
+The name of the village is Kind-Village; Kind-Village is small; he is young; She is beautiful;
+They are healthy; Trees and grass are green in this village; The river is clear; Water is delicious
+We are farmers; you are a farmer too; He is a doctor; She is a teacher; It is a basket;
+```

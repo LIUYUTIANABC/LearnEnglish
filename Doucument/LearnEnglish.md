@@ -1551,9 +1551,9 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
   - 人称代词主格：I，you，he，she，it，we，they
   - 固定搭配：I am； You are； She is； He is； It is； We are； They are
   - 任意形容词：1.Happy快乐的 2.rich有钱的 3.Busy 忙的 4. famous 出名的
-  - 固定搭e happy.你快乐配 + 任意形容词 就构成句子
+  - 固定搭配 + 任意形容词 就构成句子
     - 1）I am happy. 我快乐
-    - 2）you are
+    - 2）you are happy.你快乐
     - 3）she is rich.她有钱
     - 4）he is busy.他忙
     - 5）it is famous.它是著名的（它=可能是某产品）
