@@ -1678,3 +1678,32 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
 
 造句建议：先确定主语，符合名词，人称代词主格的规则；再确定系动词；再加符合逻辑的表语
 检查作业：第一：钉死可数名词；第二，检查时态结构；第三，检查逻辑；
+
+我的作业：
+
+- 1、人称代词主格 + is/are/am + 形容词
+  - You are cold； Are you cold?  You are not cold;  Yes,I am;  No, I'm not
+  - I am careful；  Are you careful?  You are not careful;  Yes,I am;  No, I'm not
+  - We are young;  Are we young?  Are you young?  We are not young;  Yes,we are;  No,We are not;
+  - They are happy;  Are they happy?  They are not happy;  Yes，they are;  No they are not;
+  - It is bright?  Is it bright?  It's not bright;  Yes,It is;  No,It's not
+- 2、名词 + is/are + 形容词
+  - The guide is famous; Is the guide famous?  The guide is not famous;
+  - Yes, he is; No, he is not;
+  - Farmers are busy; Are farmers busy?  Farmers aren't busy;
+  - Yes,They are; No,they are not;
+  - Garbage is dirty; Is garbage dirty?  Garbage is not dirty
+  - Yes,It is; No,It's not
+  - Dongguan and Shenzhen are clean; Are they clean?  They are not clean;
+  - Yes,they are; No,they are not
+- 3、人称代词主格 + is/are/am + 名词
+  - She is a writer;  Is she a writer?  She is not a writer;
+  - He is your brother?  Is he your brother?  He is not your brother;
+  - You are a child;  Are you a child?  You are not child;
+  - It is a gift;  Is it a gift?  It is not a gift；
+- 4、名词 + is/are + 名词
+  - Rick is a engineer;  Is Rick a engineer?  Rick is not a engineer;
+  - The man is his father;  Is the man his father?  The man is not his father;
+  - The apples are their food;  Are their food the apples;  The apples are not their food;
+  - These two bottles of juice are mine;  The bottle of juice is mine;  The juice is mine;
+  - The juice is our drink;  Is our drink the juice?  The juice is not our drink;

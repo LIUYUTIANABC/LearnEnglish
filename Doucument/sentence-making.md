@@ -204,6 +204,6 @@ breakfast，lunch，supper 晚餐，dinner 正餐
 ```
 This is a little story;
 The name of the village is Kind-Village; Kind-Village is small; he is young; She is beautiful;
-They are healthy; Trees and grass are green in this village; The river is clear; Water is delicious
+They are healthy; Trees and grasses are green in this village; The river is clean; Water is delicious
 We are farmers; you are a farmer too; He is a doctor; She is a teacher; It is a basket;
 ```
