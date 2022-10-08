@@ -1702,8 +1702,21 @@ Here is beautiful 错  -> Here is my car 对，倒装句，car 主语
   - You are a child;  Are you a child?  You are not child;
   - It is a gift;  Is it a gift?  It is not a gift；
 - 4、名词 + is/are + 名词
-  - Rick is a engineer;  Is Rick a engineer?  Rick is not a engineer;
+  - Rick is an engineer;  Is Rick an engineer?  Rick is not an engineer;
   - The man is his father;  Is the man his father?  The man is not his father;
   - The apples are their food;  Are their food the apples;  The apples are not their food;
   - These two bottles of juice are mine;  The bottle of juice is mine;  The juice is mine;
   - The juice is our drink;  Is our drink the juice?  The juice is not our drink;
+
+TODO：跳过课程，因为是中途词汇班，后面学
+
+- P20(2019中途词汇精讲：动词)
+- P21(2019中途词汇精讲：形容词)
+- P22(2019中途词汇精讲：名词)
+
+作业总结：
+
+- Their mothers are good；  她们的妈妈，各自的妈妈，多个人
+- Their mother are good；  她们共同的妈妈，一个人
+- I am men 错；men 是复数
+- I am a man 对；
