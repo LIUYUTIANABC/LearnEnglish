@@ -1720,3 +1720,49 @@ TODO：跳过课程，因为是中途词汇班，后面学
 - Their mother are good；  她们共同的妈妈，一个人
 - I am men 错；men 是复数
 - I am a man 对；
+
+## 第七课 一般现在时态（ 二 ）
+
+二、主语+谓语+宾语
+
+- 句型包括： 主谓； 主谓宾； 主谓宾 + 双宾； 主谓宾 + 宾补
+- 一般现在时态里面动作的句型，有两种构成方式
+  - 第一种是：非三单情况；主语是 I, we, you， they, 以及名词的复数的时候
+    - 谓语动词使用原型, 主语和宾语不用发生变化。
+    - 句型：“主语（非第三人称单数）+ 谓语 + 宾语” 细分成四个小句型：
+    - 1、人称代词主格（主语）+ 不及物动词（谓语）+ 状语
+      - 用法：I/ we/ you/ they + 不及物动词原型 + every day
+      - 1）I sleep every day  我每天睡觉
+      - 2）We work every day  我们每天工作
+      - 3）You cry every day  你每天哭
+      - 4）They walk every day  他们每天走路
+      - 5）We run every day  我们每天跑步
+      - You dance every day;  you are dancing; Are you dancing?
+    - 2、名词复数（主语）+ 不及物动词原型（谓语）+ 状语
+      - 用法：不及物动词，一般主语是人，所以，这个句型主语最好用人
+      - 名词复数可以作主语，表示泛指，可能逻辑错误；通常还需要加定冠词或限定词，表示特指
+      - 1）My friends work every day 我朋友每天工作
+      - 2）Nick’s classmates run every day 尼克的同学每天跑步
+      - 3）The nurses work every day 这些护士每天工作
+      - 4）My daughters cry every day 我女儿每天哭
+      - My fathers work every day 错，逻辑错误； Daughters cry every day 泛指，感觉很奇怪；
+      - 这个小句型的主语也可以是两个并列人名，作谓语的不及物动词也用原型：
+      - 1）Nick and Jack work every day 尼克和杰克每天工作
+      - 2）Lily and Lucy cry every day  丽丽和露西每天哭
+    - 3.人称代词主格（主语）+ 及物动词原型（谓语）+ 宾语 + 状语
+      - 用法：I/ we/ you/ they + 及物动词原型（谓语） + 人称代词宾格、名词（单数，复数） + every day
+      - 名词的单数和复数要符合规则，
+      - 1）I bake potatoes every day 我每天烤土豆
+      - I bake the banana every day 语法对，逻辑错误，特指这跟香蕉，每天烤这根香蕉
+      - 2）We bake sweet potatoes every day 我们每天烤红薯
+      - 3）you buy a book every year 你每年买一本书
+      - 4）they drink water every day 他们每天喝水
+      - They buy beef every day；
+      - 5）we eat rice every day我们每天吃米饭
+      - 6）we eat apples every day 我们每天吃苹果
+      - 7）we like the teacher我们喜欢这个老师
+      - 8）I believe him  我相信他
+      - 9）I believe you  我相信你
+      - 10）I believe them 我相信他们/她们
+      - 11）I believe my wife我相信我的妻子
+      - they bring food every day
