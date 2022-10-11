@@ -1727,42 +1727,109 @@ TODO：跳过课程，因为是中途词汇班，后面学
 
 - 句型包括： 主谓； 主谓宾； 主谓宾 + 双宾； 主谓宾 + 宾补
 - 一般现在时态里面动作的句型，有两种构成方式
-  - 第一种是：非三单情况；主语是 I, we, you， they, 以及名词的复数的时候
-    - 谓语动词使用原型, 主语和宾语不用发生变化。
-    - 句型：“主语（非第三人称单数）+ 谓语 + 宾语” 细分成四个小句型：
-    - 1、人称代词主格（主语）+ 不及物动词（谓语）+ 状语
-      - 用法：I/ we/ you/ they + 不及物动词原型 + every day
-      - 1）I sleep every day  我每天睡觉
-      - 2）We work every day  我们每天工作
-      - 3）You cry every day  你每天哭
-      - 4）They walk every day  他们每天走路
-      - 5）We run every day  我们每天跑步
-      - You dance every day;  you are dancing; Are you dancing?
-    - 2、名词复数（主语）+ 不及物动词原型（谓语）+ 状语
-      - 用法：不及物动词，一般主语是人，所以，这个句型主语最好用人
-      - 名词复数可以作主语，表示泛指，可能逻辑错误；通常还需要加定冠词或限定词，表示特指
-      - 1）My friends work every day 我朋友每天工作
-      - 2）Nick’s classmates run every day 尼克的同学每天跑步
-      - 3）The nurses work every day 这些护士每天工作
-      - 4）My daughters cry every day 我女儿每天哭
-      - My fathers work every day 错，逻辑错误； Daughters cry every day 泛指，感觉很奇怪；
-      - 这个小句型的主语也可以是两个并列人名，作谓语的不及物动词也用原型：
-      - 1）Nick and Jack work every day 尼克和杰克每天工作
-      - 2）Lily and Lucy cry every day  丽丽和露西每天哭
-    - 3.人称代词主格（主语）+ 及物动词原型（谓语）+ 宾语 + 状语
-      - 用法：I/ we/ you/ they + 及物动词原型（谓语） + 人称代词宾格、名词（单数，复数） + every day
-      - 名词的单数和复数要符合规则，
-      - 1）I bake potatoes every day 我每天烤土豆
-      - I bake the banana every day 语法对，逻辑错误，特指这跟香蕉，每天烤这根香蕉
-      - 2）We bake sweet potatoes every day 我们每天烤红薯
-      - 3）you buy a book every year 你每年买一本书
-      - 4）they drink water every day 他们每天喝水
-      - They buy beef every day；
-      - 5）we eat rice every day我们每天吃米饭
-      - 6）we eat apples every day 我们每天吃苹果
-      - 7）we like the teacher我们喜欢这个老师
-      - 8）I believe him  我相信他
-      - 9）I believe you  我相信你
-      - 10）I believe them 我相信他们/她们
-      - 11）I believe my wife我相信我的妻子
-      - they bring food every day
+  - 第一种：非三单情况
+  - 第二种：三单情况
+- 第一种是：非三单情况；主语是 I, we, you， they, 以及名词的复数的时候
+  - 谓语动词使用原型, 主语和宾语不用发生变化。
+  - 句型：“主语（非第三人称单数）+ 谓语 + 宾语” 细分成四个小句型：
+  - 1、人称代词主格（主语）+ 不及物动词（谓语）+ 状语
+    - 用法：I/ we/ you/ they + 不及物动词原型 + every day
+    - 1）I sleep every day  我每天睡觉
+    - 2）We work every day  我们每天工作
+    - 3）You cry every day  你每天哭
+    - 4）They walk every day  他们每天走路
+    - 5）We run every day  我们每天跑步
+    - You dance every day;  you are dancing; Are you dancing?
+  - 2、名词复数（主语）+ 不及物动词原型（谓语）+ 状语
+    - 用法：不及物动词，一般主语是人，所以，这个句型主语最好用人
+    - 名词复数可以作主语，表示泛指，可能逻辑错误；通常还需要加定冠词或限定词，表示特指
+    - 1）My friends work every day 我朋友每天工作
+    - 2）Nick’s classmates run every day 尼克的同学每天跑步
+    - 3）The nurses work every day 这些护士每天工作
+    - 4）My daughters cry every day 我女儿每天哭
+    - My fathers work every day 错，逻辑错误； Daughters cry every day 泛指，感觉很奇怪；
+    - 这个小句型的主语也可以是两个并列人名，作谓语的不及物动词也用原型：
+    - 1）Nick and Jack work every day 尼克和杰克每天工作
+    - 2）Lily and Lucy cry every day  丽丽和露西每天哭
+  - 3、人称代词主格（主语）+ 及物动词原型（谓语）+ 宾语 + 状语
+    - 用法：I/ we/ you/ they + 及物动词原型（谓语） + 人称代词宾格、名词（单数，复数） + every day
+    - 名词的单数和复数要符合规则，
+    - 1）I bake potatoes every day 我每天烤土豆
+    - I bake the banana every day 语法对，逻辑错误，特指这跟香蕉，每天烤这根香蕉
+    - 2）We bake sweet potatoes every day 我们每天烤红薯
+    - 3）you buy a book every year 你每年买一本书
+    - 4）they drink water every day 他们每天喝水
+    - They buy beef every day；
+    - 5）we eat rice every day我们每天吃米饭
+    - 6）we eat apples every day 我们每天吃苹果
+    - 7）we like the teacher我们喜欢这个老师
+    - 8）I believe him  我相信他
+    - 9）I believe you  我相信你
+    - 10）I believe them 我相信他们/她们
+    - 11）I believe my wife 我相信我的妻子
+    - they bring food every day
+  - 4、名词复数（主语）+ 及物动词原型（谓语）+ 宾语 + 状语
+    - 主语是复数，要注意符合逻辑，加限定词表示特指，最好是表示人的复数
+    - 宾语要注意使用宾格，如果是名词要注意可数名词加限定词
+    - 1）My friends believe me 我朋友相信我
+    - 2）My classmates buy new clothes every year 我同学每年买新衣服
+    - 3）The nurses believe the doctor 这些护士相信这个医生
+    - 4）My daughters drink milk every day  我女儿每天喝牛奶
+    - 这个小句型的主语也可以是两个并列人名，作谓语的及物动词也用原型
+    - 1）Nick and Jack like beautiful girls  尼克和杰克喜欢漂亮的女孩子
+    - 2）Lucy and lily buy clothes every day 露西和莉莉每天买衣服
+  - 5、 “主语（非第三人称单数）+谓语 +宾语”这个句型在 一般现在时态 里面变 一般疑问句 的规则。
+    - 规则：只需在肯定句的句首加一个助动词“do”。
+    - “do”在这里是助动词，没有意思，只是帮助构成疑问句
+    - 肯定句：I read books every day. 我每天读书。
+    - 一般疑问句：Do you read books every day? 你每天读书吗？（根据逻辑和实际情况，主语人称改变了）
+      - 肯定回答：yes,I do 是的，我读  
+      - 否定回答：no,I don’t不，我不读
+    - 肯定句：I work every day.  我每天工作
+    - 疑问句：Do you work every day? 你每天工作吗？
+      - 肯定回答：Yes,I do是的 (我每天工作)
+      - 否定回答：no,I don’t 不（我每天不工作）   
+    - 肯定句：I speak Cantonese /Mandarin. 我讲广东话/普通话。
+    - 疑问句：Do you speak Cantonese/Mandarin？ 你讲广东话/普通话吗？
+      - 肯定回答：Yes,I do,是的，我讲
+      - 否定回答：no,I don’t不，我不讲
+    - 肯定句：They sell fruit.他们卖水果。
+    - 疑问句：Do they sell fruit？他们卖水果吗？
+      - 肯定回答：yes,they do 是的，他们卖 
+      - 否定回答：no, they don't 不，他们不卖
+    - 以下例句，肯定/否定回答全部省略
+    - 肯定句：My friends work every day
+    - 疑问句：Do My friends work every day?/Do your friends work every day?
+    - 肯定句：Nick’s classmates run every day
+    - 疑问句：Do Nick’s classmates run every day?
+    - 肯定句：The nurses work every day
+    - 疑问句：Do the nurses work every day?
+    - 肯定句：My daughters cry every day
+    - 疑问句：Do my /your daughters cry every day?
+    - 肯定句：my friends believe me.
+    - 疑问句：Do my friends believe me?/do your friends believe you?
+  - 6.“主语（非第三人称单数）+谓语 +宾语” 这个句型在 一般现在时态 里面变 否定句 的规则
+    - 这个规则很简单，只需在谓语动词前面加助动词“do”的否定式“do not”或缩写形式“don’t”即可。
+    - 肯定句：I read books every day.  我每天读书。
+    - 否定句：I don’t read books every day.  我每天不读书。
+    - 肯定句：I work every day.  我每天工作
+    - 否定句：I don’t work every day.  我每天不工作。
+    - 肯定句：I speak Cantonese /Mandarin. 我讲广东话/普通话。
+    - 否定句：I don’t speak Cantonese /Mandarin. 我不讲广东话/普通话
+    - 肯定句：They sell fruit.  他们卖水果。
+    - 否定句：They don’t sell fruit. 他们不卖水果。
+    - 肯定句：We run every day
+    - 否定句：We don’t run every day.
+    - 肯定句：I bake potatoes every day
+    - 否定句：I don’t bake potatoes every day
+    - 肯定句：we eat rice every day
+    - 否定句：we don’t eat rice every day
+
+作业一：
+
+四个小句型：造四句话，写一般疑问句，和否定句
+
+- 1、人称代词主格（主语）+ 不及物动词（谓语）+ 状语
+- 2、名词复数（主语，用表示人的名词复数）+ 不及物动词原型（谓语）+ 状语
+- 3、人称代词主格（主语）+ 及物动词原型（谓语）+ 宾语 + 状语
+- 4、名词复数（主语，用表示人的名词复数）+ 及物动词原型（谓语）+ 宾语 + 状语
