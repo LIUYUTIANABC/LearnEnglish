@@ -1833,3 +1833,27 @@ TODO：跳过课程，因为是中途词汇班，后面学
 - 2、名词复数（主语，用表示人的名词复数）+ 不及物动词原型（谓语）+ 状语
 - 3、人称代词主格（主语）+ 及物动词原型（谓语）+ 宾语 + 状语
 - 4、名词复数（主语，用表示人的名词复数）+ 及物动词原型（谓语）+ 宾语 + 状语
+
+我的作业：
+
+- 1、人称代词主格（主语）+ 不及物动词（谓语）+ 状语
+  - I walk every day； Do you walk every day? I don't walk every day;
+  - You swim every year; Do you swim every year? You don't swim every year;
+  - We dance every day; Do you dance every day? We don't dance every day;
+  - They chat every week; Do they chat every week? They don't chat every week;
+- 2、名词复数（主语，用表示人的名词复数）+ 不及物动词原型（谓语）+ 状语
+  - Nick's students bathe every day; Do Nick's students bathe every day? Nick's students don't bathe every day;
+  - My colleagues travel every year; Do your colleagues travel every year? My colleagues don't travel every year;
+  - These farmers sleep every day; Do they sleep every day? They don't sleep every day;
+  - The nurses rest; Do the nurses rest? The nurses don't rest;
+- 3、人称代词主格（主语）+ 及物动词原型（谓语）+ 宾语 + 状语
+  - I break the dish; Do you break the dish? I don’t break the dish;
+  - You move these bowls; Do you move these bowls?  You don't move these bowls;
+  - We leave the keys; Do you leave the keys? We don't leave the keys;
+  - They help me; Do they help you; They don't help you;
+  - I punish my son; Do you punish your son? I don’t punish my son;
+- 4、名词复数（主语，用表示人的名词复数）+ 及物动词原型（谓语）+ 宾语 + 状语
+  - Her sons break the bowls； Do her sons break the bowls? Her sons don't break the bowls
+  - Nick's colleagues drive their car;  Do they drive their car? Nick's colleagues don't drive their car;
+  - The customers like flowers; Do the customers like flowers? The customers don't like flowers;
+  - These bosses discuss the house; Do the bosses discuss the house? The bosses don't discuss the house;
