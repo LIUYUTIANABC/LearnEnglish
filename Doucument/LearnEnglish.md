@@ -1870,3 +1870,45 @@ TODO：跳过课程，因为是中途词汇班，后面学
 - speak English 对; speak "hello" 错; say "hello" 对;
   - speak 后面必须跟语言
 
+## 第七课 一般现在时态（ 三 ）
+
+- 第二种是：三单情况；当主语是第三人称单数的时候，谓语动词要变成第三人称单数的格式
+  - 所谓第三人称单数，就是：不是“我”，不是“你”，而是第三者（人或者物），并且一定是一个单数。
+  - 比如：“your father”，这里的“your”只是一个定语，“你的爸爸” 是第三个人，而且是一个人，是单数概念
+  - 所以“your father”是第三人称单数，并非第二人称，定语“your”不能决定人称。
+  - 大概什么词语作主语属于第三人称单数：
+    - 1、人称代词主格：she, he, it
+    - 2、所有的名词的单数：train, bus, father, mother, doctor
+    - 3、一个人名/一个地名，都是第三人称单数: Nick, Jack, Guangxi
+    - 4、不可数名词也是第三人称单数: water, sugar, wine
+    - 5、指示代词 this,that 也是第三人称单数 
+    - 6、动词不定式和动名词短语
+    - 7、主语从句
+  - 可以把 “主语（第三人称单数）+ 谓语 + 宾语”这个句型分成四个更具体详细的小句型：
+  - 1、人称代词主格（小三） + 不及物动词小三格式（谓语） + 状语
+    - 人称代词主格只有“she/he/it”属于第三人称单数
+    - 注意，Nickcen的课程里面，第三人称单数 = 小三，动词的第三人称单数格式 = 小三格式。
+    - 1）She bathes every day 她每天洗澡
+    - 2）He works every day 他每天工作
+    - 3）It sleeps every day 它每天睡觉
+  - 2、名词单数（小三）+ 不及物动词小三格式（谓语） + 状语
+    - 这个小句型里面的主语最好表示人的名词的单数，因为不及物动词是发生的动作，物体不能发生动作
+    - 1）My friend works every day我朋友每天工作
+    - 2）The nurse bathes every day 这个护士每天洗澡
+    - 3）The girl smiles every day  这个女孩每天微笑
+    - My leader rests every day； her leader works every day;
+    - She's leader 错； she's = she is 是代词，不是名词所有格
+    - 一个人名也属于第三人称单数，直接作主语，不需要加任何限定词和冠词，也不能加限定词和冠词
+    - 1）Nick runs every day  尼克每天跑步
+    - 2）Jack swims every day 杰克每天游泳
+  - 3、人称代词主格（小三） + 及物动词小三格式（谓语） + 宾语 + 状语
+    - 这个小句型里面的人称代词主格还是“she/he/it”
+    - 宾语可以是任何一个人称代词的宾格或者任何一个名词。当然作宾语的名词也要考虑可数名词单复数的问题
+    - 1）She buys tomatoes every week  她每个星期都买西红柿
+    - 2）He drinks tea every day 他每天喝茶
+    - 3）It eats pork every day  它每天吃猪肉
+    - 先写及物动词，再写宾语，再加主语
+    - borrows rice；borrows money；borrows books；borrow a cow；
+    - He borrows money every day；
+    - 以后自己写句子也是先找动词，再找宾语，再加主语
+    - brushes teeth; brushes a cooker; brushes bowls;
