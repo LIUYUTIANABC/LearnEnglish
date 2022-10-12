@@ -1857,3 +1857,16 @@ TODO：跳过课程，因为是中途词汇班，后面学
   - Nick's colleagues drive their car;  Do they drive their car? Nick's colleagues don't drive their car;
   - The customers like flowers; Do the customers like flowers? The customers don't like flowers;
   - These bosses discuss the house; Do the bosses discuss the house? The bosses don't discuss the house;
+
+作业总结：
+
+- 造句常见的错误：
+  - 结构错误；主系表，主谓宾，句子成分分不清
+  - 名词；单数不可单独使用，复数表示泛指，逻辑问题
+  - 代词；主格当形容词性物主代词使用，名词性物主代词用宾格
+  - 逻辑；按中文思维翻译的英语
+- listen to music 对; listen music 错;
+  - listen 是不及物动词，不能跟宾语；listen to 是一个固定搭配
+- speak English 对; speak "hello" 错; say "hello" 对;
+  - speak 后面必须跟语言
+
