@@ -1912,3 +1912,19 @@ TODO：跳过课程，因为是中途词汇班，后面学
     - He borrows money every day；
     - 以后自己写句子也是先找动词，再找宾语，再加主语
     - brushes teeth; brushes a cooker; brushes bowls;
+  - 4、名词单数（小三） + 及物动词小三格式（谓语） + 宾语 + 状语
+    - 这个小句型里面的主语最好表示人的名词的单数；
+    - 注意可数名词单数不能单独使用，必须考虑加限定词或冠词。
+    - 宾语可以是任何一个人称代词的宾格或者任何一个名词。当然作宾语的名词也要考虑可数名词单复数的问题。
+    - 1）His sister likes English 他姐姐喜欢英语
+    - 2）Nick’s brother bakes potatoes every day 尼克的兄弟每天烤土豆
+    - 3）The doctor believes his nurse 这个医生相信他的护士
+    - 4）The boss believes me  这个老板相信我
+    - 一个人名也属于第三人称单数，直接作主语，不需要加任何限定词和冠词，也不能加限定词和冠词。
+    - 1）Nick likes money 尼克喜欢钱
+    - 2）Jack likes Lily 杰克喜欢莉莉
+  - 课堂作业：
+    - Her son breaks bowls; It(The dog) breaks the dish;
+    - Lily drives Nick's car; That girl(She) introduces his company
+    - her elder sister 她姐姐; bakes chickens; cooks milk; cooks beef; bakes pork;
+    - cuts pork; combs hair 梳头发; cooks dinner 做饭; draws a picture;
