@@ -1928,3 +1928,115 @@ TODO：跳过课程，因为是中途词汇班，后面学
     - Lily drives Nick's car; That girl(She) introduces his company
     - her elder sister 她姐姐; bakes chickens; cooks milk; cooks beef; bakes pork;
     - cuts pork; combs hair 梳头发; cooks dinner 做饭; draws a picture;
+  - 5、 “主语（第三人称单数）+谓语 +宾语”在一般现在时态里面变一般疑问句的规则。
+    - 首先，句首加助动词“does”,“does”无意义，只是帮助构成疑问句。
+    - 另外，一定要把动词的第三人称单数的格式变回原型。
+    - 注意，有时根据逻辑，主语的人称需要改变一下。比如：
+    - 肯定句：She likes playing Pingpong.  她喜欢打乒乓球。
+      - 疑问句：Does she like playing Pingpong? 她喜欢打乒乓球吗？
+      - 肯定回答：yes,she does 是的，她喜欢 
+      - 否定回答：no, she doesn't不，她不喜欢。
+    - 肯定句：He has a cat. 他有一只猫
+      - 疑问句：Does he have a cat? 他有一只猫吗？  
+      - 肯定回答：Yes,he does, 是的，他有 
+      - 否定回答：no,he doesn’t 不，他没有
+    - 肯定句：He speaks Japanese. 他说日语。
+      - 疑问句：Does he speak Japanese? 他说日语吗？
+      - 肯定回答：Yes,he does 是的，他说，
+      - 否定回答：No,he doesn’t 不，他不说。
+    - 肯定句：My father likes wine. 我爸爸喜欢喝酒。
+      - 疑问句：Does your father like wine? 你爸爸喜欢喝酒吗？
+      - 肯定回答：Yes,he does 是的，他喜欢
+      - 否定回答：no,he doesn’t 不，他不喜欢。
+    - 肯定句：The dog barks every day这条狗每天吠
+      - 疑问句：Does the dog bark every day?这条狗每天都吠吗？
+      - 肯定回答：yes,it does 是的，它吠 
+      - 否定回答：no,it doesn’t不，它不吠
+    - 以下例句省略肯定/否定回答：
+    - 肯定句：She bathes every day她每天洗澡
+      - 疑问句：Does she bathe every day?她每天洗澡吗？
+    - 肯定句：He works every day
+      - 疑问句：Does he work every day?
+    - 肯定句：My friend works every day
+      - 疑问句：Does my/your friend work every day?
+    - 肯定句：The nurse bathes every day
+      - 疑问句：Does the nurse bathe every day?
+    - 肯定句：The doctor believes his nurse
+      - 疑问句：Does the doctor believe his nurse?
+    - 6.“主语（第三人称单数）+谓语+宾语” 在一般现在时态里面变否定句的规则。
+      - 首先，谓语动词前面加助动词“does”的否定式“doesn’t”（does not的缩写）
+      - 另外一定要把动词的第三人称单数的格式变回原型
+      - 肯定句：She likes playing Pingpong.  她喜欢打乒乓球。
+        - 否定句：She doesn’t like playing Pingpong.  她不喜欢打乒乓球。
+      - 肯定句：He has a cat. 他有一只猫
+        - 否定句：He doesn’t have a cat. 他没有一只猫。
+      - 肯定句：He speaks Japanese. 他说日语。
+        - 否定句：He doesn’t speak Japanese. 他不说日语
+      - 肯定句：My father likes wine. 我爸爸喜欢喝酒。
+        - 否定句：My father doesn’t like wine. 我爸爸不喜欢喝酒。
+      - 肯定句：The dog barks every day 这条狗每天吠
+        - 否定句：The dog doesn’t bark every day 这条狗每天都不吠。
+      - 肯定句：She buys tomatoes every week
+        - 否定句：She doesn’t buy tomatoes every week
+      - 肯定句：He drinks tea every day
+        - 否定句：He doesn’t drink tea every
+      - 肯定句：Jack likes Lily
+        - 否定句：Jack does not/doesn’t like Lily
+
+一般现在时态的用法
+
+- 什么时候用一般现在时态的规则造句
+  - 1、当表示经常性，习惯性，有规律性的动作和状态的时候需要使用一般现在时态。
+  - 2、表示真理性，客观性的动作和状态也要使用一般现在时态。（如，地球是圆的，太阳从东边升起，1+1=2）。
+  - 3、不轻易改变的状态。比如：“他是一个男孩”，“这个房子很大”; 像这样的句子都要使用一般现在时态。
+    - (He is a boy.The house is very big.)
+  - 4、此时此刻的状态。比如：“我现在很累”（I am tired now）
+
+一般现在时态的时间状语
+
+- 一般现在时态的时间状语都是表示经常性，习惯性或者有规律性词语
+  - every day 每天；every week 每周; on Sunday 在周日; in the morning在早上
+  - 1）She gets up very late on Sunday. 在周日，她很晚才起床。
+  - 2）I get up at 9:00 every morning.  我每天早上九点起床。
+  - 首先，“Every + 表示时间的名词单数”，可以直接充当一般现在时态的时间状语。
+    - 表示时间的名词分别是：
+      - second；minute；hour；morning；noon; afternoon; evening; night; day; year; week；month; season 季度;
+    - 以上短语可以直接放在句子后面作一般现在时态的时间状语：
+    - 1、I miss you every second 我每秒都想念你
+    - 2、I teach English every night 我每天晚上教英语
+    - 3、She is busy every day 她每天都忙
+    - 4、We are happy every day 我们每天都快乐
+  - 另外，一般现在时态的时间状语也可以由频度副词充当。下面是常用的频度副词：
+    - always 总是；often 经常；usually 通常；sometime；seldom 很少；never；occasionally 偶尔；
+    - 这些频度副词作时间状语的时候不是放在句尾，而是放在中间，并且有一定的规则
+    - 频度副词的位置：
+    - 1、放在be,助动词,情态动词后面
+      - I am often late. 我经常迟到。注意：I often am late 是错的
+      - She is always hard-working. 她总是很努力。
+      - Do you always get up late? 你总是起得很晚吗？
+      - Can you often read English? 你可以经常朗读英语吗？
+      - I can often run in the morning. 我可以经常在早上跑步。
+    - 2、放在实义动词前面；即：主语+（频度副词）+ 谓语+宾语
+    - I never drink wine  我从来不喝酒
+    - I often play basketball. 我经常打篮球。
+    - She always comes back late at night. 晚上，她总是很晚回来。
+      - （注意，不要因为频度副词“always”在前面，就把“comes”变回原型“come”。这是错的，没有这样的规则。只有助动词do/does/did和情态动词后面的动词才会变原型）
+    - I seldom go shopping . 我很少去购物。
+    - I usually go home after work. 下班后，我通常回家。
+    - I sometimes watch TV on Sunday. 我有时候在周日看电视
+    - I sometimes go to see films. 我有时候去看电影。
+
+其实一句话里面，可以跟几个时间状语。但是有时可能逻辑不对，比如：Every day 和often , always连用会出现矛盾，比如：
+
+- I always eat bread every day（语法没有错误，但是有矛盾）
+  - 英文的状语是修饰谓语的，“Always” 是状语，“every day”也是状语，都是修饰谓语“eat”。这样就出现矛盾了：总是吃，同时又每天都吃，描述不同的含义
+  - 如果改成“I always eat bread in the morning” 对;
+  - 因为“In the morning”是介词短语，表示泛指：“经常性的早上”，这句话的意思是：“在早上的时候，我总是吃面包”，这两个状语就不冲突了。
+
+作业：
+
+- 1、she/he/it + 不及物动词小三格式 + 时间状语
+- 2、（限定词或冠词）可数名词单数 + 不及物动词小三格式 + 时间状语
+- 3、she/he/it + 及物动词小三格式 + 宾语 + 时间状语
+- 4、（限定词或冠词）可数名词单数 + 及物动词小三格式 + 宾语 + 时间状语
+- 造四句话，写疑问句和否定句
