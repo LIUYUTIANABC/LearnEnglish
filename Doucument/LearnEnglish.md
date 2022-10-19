@@ -2040,3 +2040,59 @@ TODO：跳过课程，因为是中途词汇班，后面学
 - 3、she/he/it + 及物动词小三格式 + 宾语 + 时间状语
 - 4、（限定词或冠词）可数名词单数 + 及物动词小三格式 + 宾语 + 时间状语
 - 造四句话，写疑问句和否定句
+
+## 第八课 一般过去时
+
+一般过去时：表示过去发生的动作和状态的句子里
+
+- she was my girlfriend； 过去时；她过去是我女朋友； she is my girlfriend； 现在时；她是我女朋友
+
+句型：主系表
+
+- 主系表构成过去式；主 + be + 表语； 把 be 变成 was，were；就行了
+- I 或 单数 用 was； you 或 复数用 were
+- 把 主语 + be + 表语 句型分成四个小句型
+  - 1、人称代词主格（主语） + was/were（be） + 形容词（表语）
+  - 2、名词（主语） + was/were（be） + 形容词（表语）
+  - 3、人称代词主格（主语） + was/were（be） + 名词（表语）
+  - 4、名词（主语） + was/were（be） + 名词（表语）
+- 1、人称代词主格（主语） + was/were（be） + 形容词（表语）+ 过去时间状语（before/yesterday）
+  - I was； you were； she was； he was； it was； we were； they were
+  - I was thin before; I was afraid yesterday；
+  - You were rich before； you were busy yesterday；
+  - He was handsome before； He was famous before；
+  - She was ugly before； she was beautiful before；
+  - It was cheap before； It 可以是事物 或 动物
+  - They were brave yesterday； They were cheap before； They 可以表示 他们，它们
+  - we were young before； We were angry yesterday；
+- 2、名词（主语） + was/were（be） + 形容词（表语） + 过去时间状语（before/yesterday）
+  - 1）专有名词，人名，地名作主语
+    - Nick was thin before；
+    - Beijing was clean before；
+    - Nick and Jack were handsome before；
+    - Guangxi and Guangdong were beautiful before；
+  - 2）可数名词单数用 was
+    - The teacher was poor before；
+    - His father was busy yesterday
+    - My friend was rich before;
+    - This house was dirty before;
+    - The book was cheap before;
+  - 3）可数名词复数用 were；复数直接作主语表示泛指，语法没有错误，通常要加定冠词表示特指
+    - Students were lazy before； 逻辑错误
+    - His students were busy yesterday；
+    - Computer were expensive before； 符合逻辑
+  - 4）不可数名词用 was；单独使用表示泛指，通常加定冠词或限定词，表示特指
+    - Oil was cheap before； 标志泛指，油，单数符合逻辑
+    - Rice was cheap before；
+    - The water was clean yesterday；
+    - The pork was cheap yesterday；
+- 3、人称代词主格（主语） + was/were（be） + 名词（表语）+ 过去时间状语
+  - 名词作表语，要注意单复数规则，逻辑错误，抽象名词不可乱用
+  - 初学者建议用表示人的名词作表语
+  - I was a guide before；
+  - You were my student before；
+  - She was an air-hostess before；
+  - He was her husband before；
+  - It was a school before
+  - We were students before
+  - They were doctors before；
