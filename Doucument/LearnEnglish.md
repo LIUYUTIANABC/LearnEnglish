@@ -2096,3 +2096,80 @@ TODO：跳过课程，因为是中途词汇班，后面学
   - It was a school before
   - We were students before
   - They were doctors before；
+- 4、名词（主语） + was/were（be） + 名词（表语） + 过去时间状语（before/yesterday）
+  - 1）人名作主语，用 was
+    - Nick was a teacher before
+    - Nick and jack were farmers before； farmers 农场主
+  - 2）可数名词单数作主语，用was
+    - The lawyer was a student before；
+    - My manager was a farmer before；
+    - My sister was a worker before；
+    - Her classmate was a boss before；
+  - 3）可数名词复数作主语，用 were，同样要加限定词表示特指，不加表示泛指
+    - These reporters were sailors before；
+    - The sailors were soldiers before；
+    - My classmates were workers before；
+    - These women were nurses before；
+    - The building was a library before；
+- 主语 + be + 表语 句型，一般过去时态变否定句
+  - 在 be（was，were） 后面加 not； wasn't；weren't；
+  - I was a teacher before； I wasn't a teacher before；
+  - She was pretty before； She was not pretty before；
+  - You were great before； You weren't great before；
+  - They were farmers before； They were not farmers before；
+  - Nick was a teacher； Nick wasn't a teacher；
+  - Nick and Jack were farmers； Nick and Jack were not farmers；
+- 主语 + be + 表语 句型，一般过去时态变疑问句
+  - 把 be（was，were）移动到句首，加问号；注意有的时候，人称要表一下，be 也要变
+  - I was a teacher； Were you a teacher before； Yes，I was； No I wasn't；
+  - She was pretty before； Was she pretty before； Yes，she was； No she wasn't；
+  - You were great before； Were you great before； Yes，I was； No I wasn't；
+  - Nick was a teacher； Was Nick a teacher; Yes，he was； No he wasn't；
+- 一般过去时态的时间状语，表示过去的时间副词
+  - Yesterday； just now 刚才； before； the day before yesterday 前天；
+  - I was hungry just now；
+  - I was speechless just now； 我刚才无语了 speechless 无语
+  - 大部分表示过去的时间状语，都由介词或副词跟其他词语构成，以下几种方式：
+  - 1、由副词“ago（....前）” 构成，在前面加表示时间的词语
+    - 1）One/a/an + 表示时间名词的单数 + ago
+    - 2）数词 + 表示时间名词的复数 + ago
+    - 时间名词：second，minute，hour....
+    - an hour ago; a year ago; one year ago;
+    - three days ago; ten years ago;
+    - I was poor ten years ago; I was busy three days ago;
+  - 2、由介词 “in（在）” 构成；在 in 后面加数词，表示年份，必须是过去的年份；以后的年份是将来时
+    - in 2015； in 1982； in 2020； 在 2022 年；中文翻译不翻译 在
+    - I was young in 1988； 1988 年，我年轻
+    - I was busy in 2015； 2015 年，我忙
+  - 3、由副词 last（上一个）； last + 表示时间的词语
+    - last hour 上一个小时； last week； last month; last year 去年； last night；
+    - I was tired last night； She was fat last year； They were poor last year；
+  - 介词章节，会学习更多的时间状语；
+  - This/that + 表时间的名词单数；可以表示过去或将来
+    - this morning；今天早上，结合语境，也可以表示未来某天早上
+    - I was tried this morning； She was sad that day; you were drunk that night;
+
+句型：主谓宾
+
+- 一般过去时态中，只要把谓语动词变成动词过去式；
+- 1、主格 + 不及物动词 + 时间状语
+  - I bathed las night； You worked yesterday； She worked in 1998；
+  - He ran three days ago； It ran just now； We slept last night；
+  - They died in 1936；
+- 2、名词 + 不及物动词 + 过去时间状语
+  - Nick worked last night; Nick and Jack worked in 2008;
+  - Her father died 10 years ago; Our friend ran this morning;
+  - Students swam yesterday; The doctor rested three days ago
+  - My friends laughed just now;
+  - My friends were laughed just now; 错，主谓宾，主系表混搭，结构错误
+- 3、主格 + 及物动词 + 宾语 + 过去时间状语
+  - I baked potatoes yesterday； You always believed her/him； he believed our teacher
+  - She borrowed money last night; He bought a car three years ago;
+  - It caught mice last night; We baked beef last week; They believed me;
+- 4、名词 + 及物动词 + 宾语 + 过去时间状语
+  - Nick broke bowls yesterday; broke the mirror; The waitress broke a bowl just now；
+  - The teacher broke my cellphone yesterday；
+  - Nick baked corn last week； His friend borrowed rice before
+  - The boss bought a house last week； Lily and Lucy believed me；
+- 主谓宾 肯定句变一般疑问句； 在开头加助动词 did；把谓语动词变回原型
+  - I worked before； Did you work before； Yes，I did； No I didn't；
