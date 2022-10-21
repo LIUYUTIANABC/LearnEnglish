@@ -2223,3 +2223,34 @@ TODO：跳过课程，因为是中途词汇班，后面学
 
 - 主语 + was/were + 表语 + 过去的时间状语；10 句话，变疑问句，否定句
 - 主语 + 实义动词过去式 + （宾语） + 过去的时间状语；10 句话，变疑问句，否定句
+
+## 第九课 一般将来时态
+
+一般将来时态：表示即将要发生的动作和状态的句子；两种构成方式：
+
+- 第一种：由助动词 will 构成
+- 第二种：由助动词 be going to 构成
+- will 是助动词，没有意思; be going to 也是助动词，没有意思; 他们的作用是一样的
+
+句型：主系表
+
+- 主语 + be + 表语；把系动词 be 变成 will be，然后加上将来时间状语，主语和表语不需要变化；
+  - 同时，将来时态不管主语是什么人称，单数，复数，都是：主语 + will be + 表语 + 表将来的时间状语
+  - 细分成四个句型
+    - 1、主格（主语） + will be + 形容词（表语）+ 表将来的时间状语
+    - 2、名词（主语） + will be + 形容词（表语）+ 表将来的时间状语
+    - 3、主格（主语） + will be + 名词（表语）+ 表将来的时间状语
+    - 4、名词（主语） + will be + 名词（表语）+ 表将来的时间状语
+  - 1、主格（主语） + will be + 形容词（表语）+ 表将来的时间状语（tomorrow，in the future）
+    - 任何人称代词主格都是 will be，没有单复数区别，三单等情况
+    - I will be busy tomorrow； You will be happy tomorrow; We will be happy;
+    - He will be rich in the future; They will be famous in the future;
+    - It will be big in the future; She will be poor in the future;
+  - 2、名词（主语） + will be + 形容词（表语）+ 表将来的时间状语（tomorrow，in the future）
+    - 不管是人名，地名，可数名词单数，不可数名词，可数名词复数，都直接跟 will be
+    - Nick will be busy tomorrow； Nick and Jack will be famous in the future；
+    - Her mother will be kind in the future； Your airplane will be dangerous tomorrow；
+    - Its arm will be cold tomorrow； his uncle will be healthy in the future；
+    - This book will be famous in the future；Students will be happy tomorrow；
+    - Rice will be cheap in the future；
+  - 3、主格（主语） + will be + 名词（表语）+ 表将来的时间状语（tomorrow，in the future）
