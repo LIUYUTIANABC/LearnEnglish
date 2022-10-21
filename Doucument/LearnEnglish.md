@@ -2041,6 +2041,34 @@ TODO：跳过课程，因为是中途词汇班，后面学
 - 4、（限定词或冠词）可数名词单数 + 及物动词小三格式 + 宾语 + 时间状语
 - 造四句话，写疑问句和否定句
 
+我的作业：
+
+- 1、she/he/it + 不及物动词小三格式 + 时间状语
+  - He travels every year； Does he travel every year； He doesn't travel every year；
+    - Yes，he does； No，he doesn't；
+  - She swims every day； Does she swim every day； She doesn't swim every day；
+    - Yes，she does； No，she doesn't
+  - It rests every noon; Does it rest every noon; It doesn't rest every noon
+    - Yes, it does; No, it doesn't
+  - She chats with my sister; Does she chat with my sister? She doesn't chat;
+- 2、（限定词或冠词）可数名词单数 + 不及物动词小三格式 + 时间状语
+  - The farmer works every day; Does the farmer work every day? The farmer doesn't work every day;
+  - Nick's scientist dances every morning; Does Nick's scientist dance every morning; Nick's scientist doesn't work every day;
+  - Nick sleeps every night; Does Nick sleep every night; Nick doesn't sleep every night;
+  - My partner travels every senson; Does my partner travel every senson? My partner doesn't travel every senson;
+- 3、she/he/it + 及物动词小三格式 + 宾语 + 时间状语
+  - He brings a book in the morning; Does he bring a book in the morning; He doesn't bring a book;
+  - She draws a picture every week; Does she draw a picture every week? She doesn't draw a picture every week;
+  - It breaks bowls at 9:00; Does it break bowls at 9:00; It doesn't break bowls;
+  - He drives his car every day; Does he drive his car every day? He doesn't drive his car;
+- 4、（限定词或冠词）可数名词单数 + 及物动词小三格式 + 宾语 + 时间状语
+  - My wife loves me; Does your wife love you? Your wife doesn't love you;
+  - Their father gives them books; Does heir father give them books? Their father doesn't give them books;
+  - Her colleague cooks bread every day; Does her colleague cook bread every day? Her colleague doesn't cook bread every day;
+  - His scientist believes him; Does his scientist believe him? His scientist doesn't believe him;
+  - Your accountant earns money; Does your accountant earn money? Your accountant doesn't earn money;
+- 加频度副词；She is always hard-working； I am never go shopping；
+
 ## 第八课 一般过去时
 
 一般过去时：表示过去发生的动作和状态的句子里
