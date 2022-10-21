@@ -2173,3 +2173,25 @@ TODO：跳过课程，因为是中途词汇班，后面学
   - The boss bought a house last week； Lily and Lucy believed me；
 - 主谓宾 肯定句变一般疑问句； 在开头加助动词 did；把谓语动词变回原型
   - I worked before； Did you work before； Yes，I did； No I didn't；
+  - I read books yesterday； Did you read books yesterday； Yes，I did； No，I　didn't
+  - She spoken Cantonese/Mandarin before; Did she speak Cantonese/Mandarin before; Yes, she did; No,she didn't
+  - They spoken English before; Did they speak English before; Yes,they did; No,they didn't
+  - I bathed last night; Did you bathe last night;
+  - You worked yesterday; Did you work yesterday;
+  - He ran three days ago; Did he run three days ago;
+  - she borrowed money last month; Did she borrow money last month;
+  - He bought a car three years ago; Did he buy a car three years ago?
+- 主谓宾 肯定句变一般否定句； 在谓语动词前面加助动词否定式 didn't； 谓语动词的过去式变回原型
+  - I worked before； I didn't work before；
+  - I read books yesterday； I didn't read books yesterday；
+  - She spoken Cantonese/Mandarin before; She didn't speak Cantonese/Mandarin;
+  - They spoke English before; They didn't speak English before;
+  - We slept last night; We didn't sleep last night;
+  - They died in 1935; They didn't die in 1935
+  - Nick and Jack worked in 2008; Nick and Jack didn't work in 2008;
+  - she borrowed money last month; she didn't borrow money last month
+
+作业：
+
+- 主语 + was/were + 表语 + 过去的时间状语；10 句话，变疑问句，否定句
+- 主语 + 实义动词过去式 + （宾语） + 过去的时间状语；10 句话，变疑问句，否定句
