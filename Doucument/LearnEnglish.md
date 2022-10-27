@@ -2232,7 +2232,7 @@ TODO：跳过课程，因为是中途词汇班，后面学
 - 第二种：由助动词 be going to 构成
 - will 是助动词，没有意思; be going to 也是助动词，没有意思; 他们的作用是一样的
 
-句型：主系表
+句型：主系表，表示状态的句子
 
 - 主语 + be + 表语；把系动词 be 变成 will be，然后加上将来时间状语，主语和表语不需要变化；
   - 同时，将来时态不管主语是什么人称，单数，复数，都是：主语 + will be + 表语 + 表将来的时间状语
@@ -2254,3 +2254,146 @@ TODO：跳过课程，因为是中途词汇班，后面学
     - This book will be famous in the future；Students will be happy tomorrow；
     - Rice will be cheap in the future；
   - 3、主格（主语） + will be + 名词（表语）+ 表将来的时间状语（tomorrow，in the future）
+    - 表语是名词，主语是人称代词主格，it 和 they 可以表示物，就要注意逻辑问题
+    - I will be a house 错； 逻辑错误，人，物乱用
+    - I will be a manager tomorrow； I will be a boss； He will be a reporter
+    - I will be her leader in the future； You will be her husband tomorrow；
+    - She will be his wife tomorrow； He will be a doctor in the future；
+    - It  will be a school in the future； They will be drivers in the future；
+    - We will be good husbands in the future；
+  - 4、名词（主语） + will be + 名词（表语）+ 表将来的时间状语
+    - 主语用表示人的身份，表用用表示人的职业
+    - The reporter will be his wife； His wife will be a reporter tomorrow；
+    - The sailor will be her boyfriend in the future；
+    - Nick will be a leader in thr future； Her husband will be a driver；
+    - My students will be leaders in the future；
+  - 在英式英语中，主语是 I 或者 we 的时候可以用 shall be 也可以用 will be，意思一样
+  - 主系表 一般将来时变成 一般疑问句
+    - 把 will 移到句首，be 不变，主语和表语不变
+    - I will be a teacher next year； Will you be a teacher next year？
+      - Yes，I will； No，I will not/ won't
+    - She will be a manager next month; Will she be a manager next month?
+      - Yes,she will; No, she won't
+    - We will be rich in the future; Will you be rich in the future?
+      - Yes,we will; No,we won't
+    - You will be beautiful tomorrow; Will you be beautiful tomorrow?
+      - Yes,you will; No you won't
+  - 主系表 一般将来时变成 一般否定句
+    - 在 will 后面加 not，缩写为 won't； be 位置不变
+    - I will be a teacher next year； I won't be a teacher；
+    - She will be a manager next month; She will not be a manager；
+    - We will be rich in the future; We won't be rich in the future;
+    - You will be beautiful tomorrow; You won't be beautiful tomorrow;
+    - My students will be leaders； My students won't be leaders in the future；
+
+句型：主谓宾，表示动作的句子
+
+- 主谓宾包括 主谓宾+双宾；主谓宾+宾补的句子
+- 规则：在谓语动词原型前面加上 will 再加上将来时间状语，主语和宾语不用变化；
+  - 不需要考虑人称和单复数变化；都是 will + 动词原型
+- 细分成洗个小句型：
+  - 1、主格（主语） + will+不及物动词原型（复合谓语） + 表将来的时间状语
+  - 2、名词（主语） + will+不及物动词原型（复合谓语） + 表将来的时间状语
+  - 3、主格（主语） + will+及物动词原型（复合谓语） + 宾语 + 表将来的时间状语
+  - 4、名词（主语） + will+及物动词原型（复合谓语） + 宾语 + 表将来的时间状语
+- 1、主格（主语） + will+不及物动词原型（复合谓语） + 表将来的时间状语
+  - 很简单，在不及物动词原型前面直接加 will，就行了，其他和一般现在时一样
+  - I will work tomorrow； We will swim tomorrow； She will bathe tomorrow；
+  - They will travel in the future; She will dance; It will die tomorrow;
+- 2、名词（主语） + will+不及物动词原型（复合谓语） + 表将来的时间状语
+  - The dog will sleep tomorrow; The worker will rest tomorrow
+  - That writer will dance; Nick's mother will come tomorrow;
+  - police will run tomorrow; these women will dance tomorrow;
+- 3、主格（主语） + will+及物动词原型（复合谓语） + 宾语 + 表将来的时间状语
+  - 加一个 will，其他和一般现在时一样；宾语可以是名词（可数，不可数，可数复数），人称代词宾格
+  - She will comb hair tomorrow；Her mother will cook break；
+  - He will climb that hill/mountain/wall/tree; We will buy apples tomorrow;
+  - They will help my classmates;
+- 4、名词（主语） + will+及物动词原型（复合谓语） + 宾语 + 表将来的时间状语
+  - Their mother will cook noodles tomorrow; His girlfriend will comb hair;
+  - Our friends will climb a hill tomorrow; Nick will drink juice;
+  - The boy will buy a watermelon tomorrow;
+- 一般将来时 变 一般疑问句；把 will 提到开头
+  - I will buy a house next year； Will you buy a house next year； Yes,I will; No I won't;
+  - The boy will buy a watermelon tomorrow; Will The boy buy a watermelon tomorrow;
+- 一般将来时 变 一般否定句；在 will 后面加 not
+  - The boy will buy a watermelon tomorrow; The boy will not buy a watermelon tomorrow;
+  - I will write a composition; I won't write a composition；
+  - She will live here next year；She won't live here next year；
+  - Nick will drink juice; Nick won't drink juice;
+- 一般将来时态的时间状语；
+  - 时间副词：tomorrow；tonight；the day after tomorrow；tomorrow morning；tomorrow evening；
+  - 大部分表示将来的的时间状语，是由介词或副词跟其他词语构成
+  - 1）next + 表示时间词；（下个...）
+    - next second；next hour；next morning；next season；next week；
+    - I will travel next year；We will buy a house next season；
+  - 2）after + 具体时间点（...之后）
+    - 短语：after work；下班后  after school；放学后  after class；下课后
+    - 几点数词：after 6:00； after 12:12； after 5:30;
+    - after + ... years old
+      - 几岁：数词 + years old； 40 years old；40岁 one year old；一岁
+      - 数词 + days/weeks/months + old;  5 weeks old; 5周之后， 6 days old；6天之后
+      - one + day/week/month + old； one day old; 一天
+      - after 30 years old； 30岁之后； after 2 days old；两天之后；
+      - after three months old；三个月之后
+  - 3）after + 表将来的年份的数词，或月份，星期几，节日等
+      - after 2017； after May；五月份之后； after Sunday；星期天之后； after Christmas；圣诞节后
+    - I will buy apples after 5：00； I will be famous after 80 years old；
+    - We will buy a house after 2021；
+  - 注意：after + 一段时间；不能用在将来时，只能用在一般过去时态
+    - after + 数词+ 表示时间名词的复数；或 after + one/a/an + 表示时间名词单数；构成的时间状语，不能用在将来时态；
+    - after three days； I will be happy after three days 错；这种词主要用在一般过去式
+    - I bought a house after three years；三年后我买了一个房子；这是过去时态
+    - 这里是陈述过去一件事，过去的三年后；一般出现在故事，小说，文章等中出现；
+    - 要表示将来用：in 3 years
+  - 4）in + 一段时间（...之后）可以用在一般将来时态中，表示将来
+    - in + 数词+ 表示时间名词的复数；或 in + one/a/an + 表示时间名词单数；
+    - 这是介词短语的内容；
+    - in five days； 五天之后；in one day；一天之后
+    - in ten years； in a year； in a few days； in three minutes； in a week
+    - I will be famous in ten years； Jack will buy a car in five days；
+  - 5）in + 将来的年份，月份
+    - in 2017；in 2082；在 2082 年；
+    - in June；在六月份；
+    - we will buy the house in 2017； We will be happy in June；
+  - 6）later； ...之后；副词，放到句尾
+    - 数词 + 时间名词复数 + later； a/an/one + 时间名词单数 + later
+    - three days later； a week later；一周之后 ten months later；10个月之后
+    - 三年后：three days later； 一般用在将来，偶尔用在过去时态
+    - 三年后：after three years；只能用在过去时态
+    - 三年后：in three years；只能用在将来时态
+    - see you later；
+  - 区别：
+    -  after 是介词；later 是副词；
+       -  用法不同；after 后面放时间词语；later 前面放时间词语
+       -  later 可以单独用；after 不能单独用
+    - in 和 after 都是介词；表示时间的词语都放在后面；
+      - 区别：after 后面接时间点；after three days 用在过去时态
+      - in 后面跟一段时间，表将来时态；in 2022； in 2050；
+
+一般将来时态的第二种构成方式 be going to
+
+句型：主系表
+
+- be going to 相当于 will； 只是一个助动词； look to； look for 也是一个单词，是复合词
+- 区别：be going to 可以变三种：am going to；is going to；are going to； will 没有变化
+- will 和 be going to 没有含义，是助动词，表示将来
+- 1、主语 I + am going to + be + 表语 + 将来时间状语
+  - I am going to be busy tomorrow；= I will be busy tomorrow；
+  - You are going to be happy tomorrow；= You will be happy tomorrow；
+  - My students are going to be rich；= My students will be rich
+- 2、变疑问句；把 be going to 中的 be（is，am，are）移动到句首；主语和表语不变
+  - I am going to be a teacher next year；Are you going to be a teacher next year；
+    - Yes I am；No I am not
+  - She is going to be a manager next month； Is she going to be a manager next month?
+    - Yes,she is; No she isn't;
+  - You are going to be beautiful tomorrow; Am I going to be beautiful?
+    - Yes you are; No you aren't;
+- 3、变否定句；把 be going to 中的 be 加 not
+  - I am going to be a teacher next year；I am not going to be a teacher next year
+  - She is going to be a manager next month；She isn't going to be a manager next month；
+  - We are going to be rich in the future; We aren't going to be rich in the future;
+
+句型：主谓宾
+
+
