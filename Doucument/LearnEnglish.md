@@ -2396,4 +2396,34 @@ TODO：跳过课程，因为是中途词汇班，后面学
 
 句型：主谓宾
 
+- 把一般将来时中的 will 改成 be going to；
+  - 1、主格（主语） + be going to+不及物动词原型（复合谓语） + 表将来的时间状语
+  - 2、名词（主语） + be going to+不及物动词原型（复合谓语） + 表将来的时间状语
+  - 3、主格（主语） + be going to+及物动词原型（复合谓语） + 宾语 + 表将来的时间状语
+  - 4、名词（主语） + be going to+及物动词原型（复合谓语） + 宾语 + 表将来的时间状语
+- 1、主格（主语） + be going to+不及物动词原型（复合谓语） + 表将来的时间状语
+  - I am going to work tonight；= I will work tonight；
+  - She is going to sleep tomorrow；= She will sleep tomorrow；
+  - They are going to swim；= They will swim；
+- 2、名词（主语） + be going to+不及物动词原型（复合谓语） + 表将来的时间状语
+  - My mother is going to sleep；
+- 3、省略
+- 4、省略
+- 注意：千万不要把主谓宾 和 主系表 混搭在一起
+  - I will buy a house；I will be buy a house 错；混搭了
+  - I am going to buy a house； I am going to be buy a house 错；
+  - I will be a teacher；I am going to be a teacher；
+- 变疑问句，和上面一样，把 be going to 的 be 提到前面
+- 变否定句，和上面一样，把 be going to 的 be 加 not；
+
+will 和 be going to 的区别
+
+- will 表示意愿；be going to 只是表示将来；一般情况下，他们没有太大区别；
+- 口语中，going to 变成 gonna； I‘m gonna buy a house；
+- 人称代词和 will 一起的缩写：I will = I'll； you will = you'll；she'll；he'll；We’ll；They‘ll
+
+作业：
+
+主语 + will be + 表语 + 将来时间状语； 五句话；写疑问句和否定句
+主语 + will + 实义动词原型 + 宾语 + 将来时间状语； 五句话；写疑问句和否定句
 
