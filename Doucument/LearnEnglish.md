@@ -2427,3 +2427,45 @@ will 和 be going to 的区别
 主语 + will be + 表语 + 将来时间状语； 五句话；写疑问句和否定句
 主语 + will + 实义动词原型 + 宾语 + 将来时间状语； 五句话；写疑问句和否定句
 
+## 第十课 现在进行时
+
+现在进行时态：表示主语此时此刻正在进行的动作的句子；这个时态，只有动作的句子，没有状态的句子
+
+- 主语 + be(is/am/are) + 动词的现在分词 + 宾语；
+  - 前面讲表示状态的句子 主系表；这个系动词就是 be；这里表示动作句子应该是 主谓宾；为什么也有 be动词呢？
+  - 这里的 be 不是系动词，是助动词，没有意思，只是为了构成现在进行时态的作用；而 主系表 的be 是 “是”的含义
+  - 这里的 be + 动词的现在分词，一起构成复合谓语；
+  - 主系表中的 be（is/am/are） 充当系动词的时候，后面跟表语，不能是实义动词
+    - I am a teacher； she is a nurse； we are students；
+  - be（is/am/are） + 动词的现在分词；就是现在进行时，这里的 be 时助动词，和现在分词构成复合谓语
+    - I am working now； she is bathing； he is crying； you are sleeping；
+  - 现在进行时，一般不需要加时间状语了，因为本身就表示此时此刻的时间；
+  - 少数几个时间状语： now； right now； at the moment；
+  - 注意：有一部分动词，不能用在进行时态里
+    - 比如：知觉，结果，态度，情感的动词
+    - see 看到，look at 看； I am seeing you 错；看这个动作，不能正在进行；”我正在看见你“，错；
+    - hear 听到，listen to 听； I am hearing music 错；“我正在听到音乐” I am listening to music 对；我在听音乐
+    - find；begin，smell，love，know，believe，hate，know 等；都不能用在正在进行时
+- 现在进行时态分成四个小句型：
+  - 1、人称代词主格（主语） + is/am/are+不及物动词的现在分词（复合谓语）
+  - 2、名词（主语） + is/are+不及物动词的现在分词（复合谓语）
+  - 3、人称代词主格（主语） + is/am/are+及物动词的现在分词（复合谓语） + 宾语
+  - 4、名词（主语） + is/are+及物动词的现在分词（复合谓语） + 宾语
+- 1、人称代词主格（主语） + is/am/are+不及物动词的现在分词（复合谓语）
+  - 及物动词或不及物动词的现在分词一般是加 ing；但是有特殊情况；
+  - working；smiling；running；sleeping；flying；swimming；crying；
+  - They are crying；we are swimming；it is flying；
+- 2、名词（主语） + is/are+不及物动词的现在分词（复合谓语）
+  - 一个人名 + is； Nick is working；
+  - 两个人名 + are; Nick and Jack are crying; JT and ATT are chatting;
+  - 可数名词单数 + is；
+    - My frieng is swimming； The man is running；
+    - I am coming；The girl is coming；表达的是 “我来了” 在口语中，通常表示性高潮；不能乱用
+      - She is coming；表示 她正在来高潮；coming 不能的主语不能用人，可以用在物体上
+      - 比如：The train is coming；The winter is coming；都是对的
+    - 正确表达 “我来了”，应该用 I am on my way； She is coming here 也对；
+  - 可数名词复数 + are；可数名词复数表示泛指，要加限定词，表示特指
+    - These Men are sleeping； The students are sleeping
+    - These children are crying；
+- 3、人称代词主格（主语） + is/am/are+及物动词的现在分词（复合谓语） + 宾语
+
