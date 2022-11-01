@@ -2489,4 +2489,59 @@ will 和 be going to 的区别
     - These Men are sleeping； The students are sleeping
     - These children are crying；
 - 3、人称代词主格（主语） + is/am/are+及物动词的现在分词（复合谓语） + 宾语
+  - She is beating his head; They are brushing bowls;
+  - I am drinking water; You are driving a bus; They are baking potatoes;
+  - she is drinking juice; He is driving a car; It is drinking water;
+  - We are baking bananas;
+- 4、名词（主语） + is/are+及物动词的现在分词（复合谓语） + 宾语
+  - 造句方法：先确定及物动词和宾语，在选择主语+be动词
+  - His son is climbing a tree; Her sons are climbing a tree;
+  - 注意：训练英语思维，不要翻译中文；
+    - 看到一个事情，要习惯性的用英语表述，而不是先考虑中文，在翻译英语；
+    - 学好一门外语，就要先舍弃母语思维；
+  - Jack is drinking tea; Lucy and Lily are deinking tea;
+  - My boss are driving a car; Jack's father is baking corn(玉米);
+  - our classmates are drinking beer； The air-hostesses are drinking coffee；
+  - They are doing their homework；
+  - My flowers are growing now； I am playing computer now；My wife is sleeping;
+  - The fan is working; These farmers are cooking beef;
+- 现在进行时态使用在以下一些特殊疑问句中
+  - What are you doing? I am baking bread; I am doing my homework; I am learning English;
+  - What is she doing? She is sleeping; She is working; She is playing piano;
+  - What is he doing? He is traveling; He is coming here; He is climbing a tree;
+- 现在进行时变一般疑问句
+  - 规则：把助动词 is/am/are 移到句首，现在分词不改变；
+  - She is sleeping； Is she sleeping? Yes,she is; No,she isn't;
+  - She is teaching English now; Are you teaching English now;
+  - You are reading books; Are you reading books?
+  - We are playing a game; Are you playing a game? Yes we are;No we aren't
+  - I am talking; Are you talking? Yes,I am; No I amn't;
+- 现在进行时变否定句
+  - 规则：直接在助动词 is/am/are 后面加 not,现在分词不变；
+  - I am teaching English now；I am not teaching English；
+  - 注意：am not 没有缩写，不能写成 amn't 是错的； I'm not 是对的；
+  - She is learning English right now； She isn't learning English；
+  - You are reading books； You are not reading books now；
+  - We are playing a game; We aren't playing a game;
+- 现在进行时态特殊用法：
+  - 1、现在进行时态也可以表示目前一段时间内正在进行的动作
+    - What‘s he doing this week？ He is writing a book；
+    - They are studing in Beijing；
+  - 2、现在进行时态常与 always，constantly 等连用；表示反复出现或习惯性的动作，类似于一般现在时态的作用
+    - 比如：smile，give，kill，borrow
+    - She is always smiling happily；形式上的现在进行时，实际上是一般现在时；
+      - 她总是愉快地微笑，带有表扬，赞赏的感情色彩
+    - She always smiles happily；一般现在时；她总是愉快地微笑，只是陈述，没有感情
+    - Your mother is always giving you money; 带有羡慕嫉妒的情感
+    - Your mother always gives you money; 只是陈述，没有色彩
+    - 一般来说：用现在进行时态表达反复，经常性的动作；带有感情色彩，强调抱怨，表扬，厌倦等
+    - She is always helping her friends；表扬色彩，她热心帮助
+    - You are always borrowing money form me；你总是找我借钱，抱怨，厌倦
+    - 以不属于现在进行时态，结构像而已，但是是一般现在时态
+  - 3、有时候，现在进行时态还可以表示按计划安排，即将发生的动作；强调 一定发生，马上发生
+
+作业：
+
+- 现在进行时态造；十句话；疑问句，否定句；
+- 注意：有些动词（及物，不及物）单词不能用进行时态：buy，kill，know，love
 
