@@ -2224,6 +2224,27 @@ TODO：跳过课程，因为是中途词汇班，后面学
 - 主语 + was/were + 表语 + 过去的时间状语；10 句话，变疑问句，否定句
 - 主语 + 实义动词过去式 + （宾语） + 过去的时间状语；10 句话，变疑问句，否定句
 
+我的作业：
+
+- 主系表：
+  - It was blue before；Was it blue before? It wasn't blue；
+  - The box was black before；Was the box black? The box wasn't black;
+  - We were healthy in 2010；We weren't healthy in 2010; Were we healthy in 2010?
+  - The house were hers three years ago；Were the house hers two years old? The house weren't hers;
+  - Their teacher were a scientist last year；Were their teacher a scientist last year? Their teacher weren't a scientist last year;
+  - I was a good student; Was I a good student? were you a teacher in 2010? I wasn't a good student;
+  - The doctor was rich one year ago; Was the doctor rich before? The doctor wasn't rich last year;
+  - Oil was expensive this morning; Was oil expensive this moring? Oil wasn't expensive;
+- 主谓宾：
+  - I travelled in 2010； Did you travel in 2010？ I didn't travel in 2010；
+  - My uncle walked this morning； Did your uncle walk this morning？ My uncle didn't walk；
+  - Its master punished it last night; Did Its master punish it? his master didn't punish it;
+  - They found my keys this noon; Did you find your keys this night? They find my keys;
+  - These kids broke our computers; Did they break our computers; They didn't break our computers
+  - His friend drew a picture five years ago; Did he draw a picture five years ago? His friend didn't draw a picture;
+  - The saleswoman introduced her shop; Did she introduce her shop? She didn't introduce her shop;
+  - He gave a book to me yesterday; Did he give you a book? He didn't give me a book;
+
 ## 第九课 一般将来时态
 
 一般将来时态：表示即将要发生的动作和状态的句子；两种构成方式：
@@ -2337,7 +2358,7 @@ TODO：跳过课程，因为是中途词汇班，后面学
       - after 30 years old； 30岁之后； after 2 days old；两天之后；
       - after three months old；三个月之后
   - 3）after + 表将来的年份的数词，或月份，星期几，节日等
-      - after 2017； after May；五月份之后； after Sunday；星期天之后； after Christmas；圣诞节后
+    - after 2017； after May；五月份之后； after Sunday；星期天之后； after Christmas；圣诞节后
     - I will buy apples after 5：00； I will be famous after 80 years old；
     - We will buy a house after 2021；
   - 注意：after + 一段时间；不能用在将来时，只能用在一般过去时态
@@ -2364,9 +2385,9 @@ TODO：跳过课程，因为是中途词汇班，后面学
     - 三年后：in three years；只能用在将来时态
     - see you later；
   - 区别：
-    -  after 是介词；later 是副词；
-       -  用法不同；after 后面放时间词语；later 前面放时间词语
-       -  later 可以单独用；after 不能单独用
+    - after 是介词；later 是副词；
+      - 用法不同；after 后面放时间词语；later 前面放时间词语
+      - later 可以单独用；after 不能单独用
     - in 和 after 都是介词；表示时间的词语都放在后面；
       - 区别：after 后面接时间点；after three days 用在过去时态
       - in 后面跟一段时间，表将来时态；in 2022； in 2050；
