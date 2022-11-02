@@ -2539,6 +2539,15 @@ will 和 be going to 的区别
     - You are always borrowing money form me；你总是找我借钱，抱怨，厌倦
     - 以不属于现在进行时态，结构像而已，但是是一般现在时态
   - 3、有时候，现在进行时态还可以表示按计划安排，即将发生的动作；强调 一定发生，马上发生
+    - 不能用在现在进行时态的动词，这里可以用，表示马上发生的含义
+    - She is leaving for Beijing；她即将前往北京，leave 不能用在进行时态，但是这里可以用
+    - They are coming；他们马上到
+    - The train is arriving；火车马上到
+  - 4、现在进行时态只有动作的句子，没有状态的句子；但是在非正式场合，口语中可以表示状态
+    - 主语 + is/am/are + being + 表语
+    - She is being in love with a boss；她正在跟一个老板谈恋爱
+    - I am being in love with a girl 我在和一个女孩谈恋爱
+    - I am just being funny；我只是像表达幽默一点，尴尬
 
 作业：
 
