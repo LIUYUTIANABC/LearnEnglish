@@ -2234,9 +2234,9 @@ TODO：跳过课程，因为是中途词汇班，后面学
   - Their teacher were a scientist last year；Were their teacher a scientist last year? Their teacher weren't a scientist last year;
   - I was a good student; Was I a good student? were you a teacher in 2010? I wasn't a good student;
   - The doctor was rich one year ago; Was the doctor rich before? The doctor wasn't rich last year;
-  - Oil was expensive this morning; Was oil expensive this moring? Oil wasn't expensive;
+  - Oil was expensive this morning; Was oil expensive this morning? Oil wasn't expensive;
 - 主谓宾：
-  - I travelled in 2010； Did you travel in 2010？ I didn't travel in 2010；
+  - I traveled in 2010； Did you travel in 2010？ I didn't travel in 2010；
   - My uncle walked this morning； Did your uncle walk this morning？ My uncle didn't walk；
   - Its master punished it last night; Did Its master punish it? his master didn't punish it;
   - They found my keys this noon; Did you find your keys this night? They find my keys;
@@ -2244,6 +2244,18 @@ TODO：跳过课程，因为是中途词汇班，后面学
   - His friend drew a picture five years ago; Did he draw a picture five years ago? His friend didn't draw a picture;
   - The saleswoman introduced her shop; Did she introduce her shop? She didn't introduce her shop;
   - He gave a book to me yesterday; Did he give you a book? He didn't give me a book;
+
+作业总结：
+
+- 常见错误：
+  - 名词错误：可数名词不能单独使用，很多人会漏掉
+  - 结构错误：主系表主谓宾混搭；三单格式；代词错误（名词性物主代词，形容词性物主代词，宾格等不分）；
+  - 逻辑错误：人物比较；主语是复数，宾语是单数；人变物，物变人；
+  - 单词错误：对单词理解不透彻，用错单词，受中文影响；no people；cooker 认为是厨师，实际是锅；
+- 如何避免犯这种错误：
+  - 1、一定要按照句型结构，相应规则造句
+  - 2、使用词汇表，保证词语（时态）的正确性；不要按中文思维，使用你认为的单词；
+  - 3、积累词汇量，常用搭配，介词短语，等
 
 ## 第九课 一般将来时态
 
