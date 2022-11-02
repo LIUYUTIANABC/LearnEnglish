@@ -2492,7 +2492,7 @@ will 和 be going to 的区别
   - 一个人名 + is； Nick is working；
   - 两个人名 + are; Nick and Jack are crying; JT and ATT are chatting;
   - 可数名词单数 + is；
-    - My frieng is swimming； The man is running；
+    - My friend is swimming； The man is running；
     - I am coming；The girl is coming；表达的是 “我来了” 在口语中，通常表示性高潮；不能乱用
       - She is coming；表示 她正在来高潮；coming 不能的主语不能用人，可以用在物体上
       - 比如：The train is coming；The winter is coming；都是对的
@@ -2566,3 +2566,41 @@ will 和 be going to 的区别
 - 现在进行时态造；十句话；疑问句，否定句；
 - 注意：有些动词（及物，不及物）单词不能用进行时态：buy，kill，know，love
 
+## 第十一课 复习前面四个时态
+
+- 一般现在时；一般过去式；一般将来时；现在进行时；
+- 时态有两部分：结构，用法
+  - 结构：前面讲的，句子构成
+  - 用法：靠精读，阅读等；后面的副词，介词，介词用法都要搭配时态造句
+- 介词是学习英语重要的关卡；
+
+什么时候用 一般现在时态
+
+- 表示经常性，习惯性，有规律的动作和状态的时候；
+- 表示真理性，客观性的动作和状态；
+- 就是客观事实，叙述一件事;
+- 此时此刻的状态；
+
+句型有 主系表，主谓宾
+
+- 主系表：
+  - JT is busy； It is cold in winter in Beijing;
+  - 一般现在时；一般过去式；一般将来时；现在进行时； 的规则变化都是变 be 动词
+- 主谓宾：两种：三单，和非三单
+  - We learn English every Monday evening
+  - She learns English；
+  - The earth goes around the sun;
+  - I am upset now；
+  - 一般现在时；一般过去式；一般将来时；现在进行时； 的规则变化都是变 谓语动词
+  - 主语非三单 + 谓语动词原型 + 宾语；
+    - They believe me； I work every day；
+  - 主语三单 + 谓语动词三单格式 + 宾语；
+    - She works every day； His mother believes him；
+  - 主语非三单 变 一般疑问句 用 do
+    - Do you work every day？
+  - 主语三单 变 一般疑问句 用 does 谓语动词变回原型
+    - Does she work every day？
+  - 主语非三单 变 否定句 用 don't
+    - You don't work now;
+  - 主语三单 变 否定句 用 doesn't 谓语动词变回原型
+    - She doesn't work now;
