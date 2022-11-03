@@ -2445,8 +2445,25 @@ will 和 be going to 的区别
 
 作业：
 
-主语 + will be + 表语 + 将来时间状语； 五句话；写疑问句和否定句
-主语 + will + 实义动词原型 + 宾语 + 将来时间状语； 五句话；写疑问句和否定句
+- 主语 + will be + 表语 + 将来时间状语； 五句话；写疑问句和否定句
+- 主语 + will + 实义动词原型 + 宾语 + 将来时间状语； 五句话；写疑问句和否定句
+
+我的作业：
+
+- 主系表
+  - The secretary will be a boss in five years；Will the secretary be a boss in five years？
+    - Yes，he will；NO，he won't；The secretary won't be a boss；
+  - Her father will be happy after work；Will her father be happy after work？ Her father won't be happy after work；
+  - We will be busy after 8:00; Will you be busy after 8:00; We won't be busy;
+  - This handsome boy will be a famous writer after 30 years old; Will he be a famous writer? he will not be a writer;
+  - It will be cold after October; Will it be cold after October? It won't be cold after October;
+- 主谓宾
+  - She will bathe in one day；Will she bathe after class？ She won't bathe tomorrow;
+  - They will work after 20 years old; Will they work after 20 years old;THey won't work in 2025;
+  - The boss's wife will buy a car next years; Will she buy a car next year? She won't buy a car next year;
+  - My colleagues will bake park tonight; Will my colleagues bake pork tonight? They won't bake pork;
+  - The children's teacher will teach them how to read; Will she teach them? Will she teach us? will our teacher teach you? No,she won't; She won't teach me;
+  - That girl will help your son; will that girl help my son? yes,she will; no she won't; That girl won't help your son, but this girl;
 
 ## 第十课 现在进行时
 
