@@ -2604,3 +2604,66 @@ will 和 be going to 的区别
     - You don't work now;
   - 主语三单 变 否定句 用 doesn't 谓语动词变回原型
     - She doesn't work now;
+
+什么时候用 一般过去时态
+
+- 表示过去发生的动作和状态的句子里面
+- 含义过去的动作和状态，现在已经不存了
+- 使用范围非常广，聊过去的事情；多用于故事，小说，新闻里面
+
+主系表
+
+- 用 was，were；单数用 was，复数用 were 没有三单形式
+- I was busy this morning； He was thin； We were sad yesterday；
+- 疑问句：把 was/were 提到开头
+- 否定句：在 was/were 后面加 not
+
+主谓宾
+
+- 谓语动词变过去式；不需要考虑主语人称单复数、三单的变化，只需要把动词变成过去式
+- I checked a lot of homework last night； a lot of = many 形容词；
+- My friends helped students yesterday；
+- She bought a car last year；
+- 疑问句：用 Did 开头，把过去式变原型，不分三单：Did she buy a car?
+- 否定句：谓语动词前加 didn't，把过去式变原型：She didn't buy a bar;
+
+什么时候用 一般将来时态
+
+- 表示将来发生的动作和状态的句子里面；未来的计划；发不发生无所谓；
+- 两种格式：will 和 be going to
+
+主系表
+
+- 主语 + will be + 表语；没有单复数，三单的区别
+  - I will be busy； you will be busy； She will be busy
+  - I am going to be a teacher next year； I'm gonna be a teacher
+  - 把 be going to 替换 will；
+- 疑问句：will 放到句首；其他不变
+  - Will you be a teacher next year？
+- 否定句：will 变成 will not = won't
+  - you won't be a teacher；
+
+主谓宾
+
+- 主语 + will+动词原型（复合谓语） + （及物动词）宾语
+  - I will work；They will help me；
+  - I am going to work; They are going to swim/help me;
+- 疑问句；把 will 提到开头
+  - Will you work？
+- 否定句；把 will 变成 will not
+  - you will not work; They won't help me；
+
+什么时候用 现在进行时
+
+- 表示主语此时此刻正在进行的动作的句子; 或者这段时间持续做的事情
+- 不需要加时间状语；少数几个 now，right now； at the moment；
+
+没有主系表结构，只有主谓宾表示动作的结构
+
+- 主语 + be(is/am/are)+动词现在分词（复合谓语）+ （及物动词）宾语
+- 这里的 be 不是系动词，它是助动词，没有含义，为了构成时态
+  - I am playing computer；She is working now；
+- 疑问句：把 be 提前，动词现在分词不变
+  - Is she working now?
+- 否定句：be 改成 be + not，动词现在分词不变
+  - She isn't working now；
