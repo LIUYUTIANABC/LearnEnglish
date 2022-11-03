@@ -2234,9 +2234,9 @@ TODO：跳过课程，因为是中途词汇班，后面学
   - Their teacher were a scientist last year；Were their teacher a scientist last year? Their teacher weren't a scientist last year;
   - I was a good student; Was I a good student? were you a teacher in 2010? I wasn't a good student;
   - The doctor was rich one year ago; Was the doctor rich before? The doctor wasn't rich last year;
-  - Oil was expensive this morning; Was oil expensive this moring? Oil wasn't expensive;
+  - Oil was expensive this morning; Was oil expensive this morning? Oil wasn't expensive;
 - 主谓宾：
-  - I travelled in 2010； Did you travel in 2010？ I didn't travel in 2010；
+  - I traveled in 2010； Did you travel in 2010？ I didn't travel in 2010；
   - My uncle walked this morning； Did your uncle walk this morning？ My uncle didn't walk；
   - Its master punished it last night; Did Its master punish it? his master didn't punish it;
   - They found my keys this noon; Did you find your keys this night? They find my keys;
@@ -2244,6 +2244,18 @@ TODO：跳过课程，因为是中途词汇班，后面学
   - His friend drew a picture five years ago; Did he draw a picture five years ago? His friend didn't draw a picture;
   - The saleswoman introduced her shop; Did she introduce her shop? She didn't introduce her shop;
   - He gave a book to me yesterday; Did he give you a book? He didn't give me a book;
+
+作业总结：
+
+- 常见错误：
+  - 名词错误：可数名词不能单独使用，很多人会漏掉
+  - 结构错误：主系表主谓宾混搭；三单格式；代词错误（名词性物主代词，形容词性物主代词，宾格等不分）；
+  - 逻辑错误：人物比较；主语是复数，宾语是单数；人变物，物变人；
+  - 单词错误：对单词理解不透彻，用错单词，受中文影响；no people；cooker 认为是厨师，实际是锅；
+- 如何避免犯这种错误：
+  - 1、一定要按照句型结构，相应规则造句
+  - 2、使用词汇表，保证词语（时态）的正确性；不要按中文思维，使用你认为的单词；
+  - 3、积累词汇量，常用搭配，介词短语，等
 
 ## 第九课 一般将来时态
 
@@ -2497,7 +2509,7 @@ will 和 be going to 的区别
   - 一个人名 + is； Nick is working；
   - 两个人名 + are; Nick and Jack are crying; JT and ATT are chatting;
   - 可数名词单数 + is；
-    - My frieng is swimming； The man is running；
+    - My friend is swimming； The man is running；
     - I am coming；The girl is coming；表达的是 “我来了” 在口语中，通常表示性高潮；不能乱用
       - She is coming；表示 她正在来高潮；coming 不能的主语不能用人，可以用在物体上
       - 比如：The train is coming；The winter is coming；都是对的
@@ -2556,9 +2568,56 @@ will 和 be going to 的区别
     - You are always borrowing money form me；你总是找我借钱，抱怨，厌倦
     - 以不属于现在进行时态，结构像而已，但是是一般现在时态
   - 3、有时候，现在进行时态还可以表示按计划安排，即将发生的动作；强调 一定发生，马上发生
+    - 不能用在现在进行时态的动词，这里可以用，表示马上发生的含义
+    - She is leaving for Beijing；她即将前往北京，leave 不能用在进行时态，但是这里可以用
+    - They are coming；他们马上到
+    - The train is arriving；火车马上到
+  - 4、现在进行时态只有动作的句子，没有状态的句子；但是在非正式场合，口语中可以表示状态
+    - 主语 + is/am/are + being + 表语
+    - She is being in love with a boss；她正在跟一个老板谈恋爱
+    - I am being in love with a girl 我在和一个女孩谈恋爱
+    - I am just being funny；我只是像表达幽默一点，尴尬
 
 作业：
 
 - 现在进行时态造；十句话；疑问句，否定句；
 - 注意：有些动词（及物，不及物）单词不能用进行时态：buy，kill，know，love
 
+## 第十一课 复习前面四个时态
+
+- 一般现在时；一般过去式；一般将来时；现在进行时；
+- 时态有两部分：结构，用法
+  - 结构：前面讲的，句子构成
+  - 用法：靠精读，阅读等；后面的副词，介词，介词用法都要搭配时态造句
+- 介词是学习英语重要的关卡；
+
+什么时候用 一般现在时态
+
+- 表示经常性，习惯性，有规律的动作和状态的时候；
+- 表示真理性，客观性的动作和状态；
+- 就是客观事实，叙述一件事;
+- 此时此刻的状态；
+
+句型有 主系表，主谓宾
+
+- 主系表：
+  - JT is busy； It is cold in winter in Beijing;
+  - 一般现在时；一般过去式；一般将来时；现在进行时； 的规则变化都是变 be 动词
+- 主谓宾：两种：三单，和非三单
+  - We learn English every Monday evening
+  - She learns English；
+  - The earth goes around the sun;
+  - I am upset now；
+  - 一般现在时；一般过去式；一般将来时；现在进行时； 的规则变化都是变 谓语动词
+  - 主语非三单 + 谓语动词原型 + 宾语；
+    - They believe me； I work every day；
+  - 主语三单 + 谓语动词三单格式 + 宾语；
+    - She works every day； His mother believes him；
+  - 主语非三单 变 一般疑问句 用 do
+    - Do you work every day？
+  - 主语三单 变 一般疑问句 用 does 谓语动词变回原型
+    - Does she work every day？
+  - 主语非三单 变 否定句 用 don't
+    - You don't work now;
+  - 主语三单 变 否定句 用 doesn't 谓语动词变回原型
+    - She doesn't work now;
