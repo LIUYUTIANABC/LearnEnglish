@@ -2621,3 +2621,121 @@ will 和 be going to 的区别
     - You don't work now;
   - 主语三单 变 否定句 用 doesn't 谓语动词变回原型
     - She doesn't work now;
+
+什么时候用 一般过去时态
+
+- 表示过去发生的动作和状态的句子里面
+- 含义过去的动作和状态，现在已经不存了
+- 使用范围非常广，聊过去的事情；多用于故事，小说，新闻里面
+
+主系表
+
+- 用 was，were；单数用 was，复数用 were 没有三单形式
+- I was busy this morning； He was thin； We were sad yesterday；
+- 疑问句：把 was/were 提到开头
+- 否定句：在 was/were 后面加 not
+
+主谓宾
+
+- 谓语动词变过去式；不需要考虑主语人称单复数、三单的变化，只需要把动词变成过去式
+- I checked a lot of homework last night； a lot of = many 形容词；
+- My friends helped students yesterday；
+- She bought a car last year；
+- 疑问句：用 Did 开头，把过去式变原型，不分三单：Did she buy a car?
+- 否定句：谓语动词前加 didn't，把过去式变原型：She didn't buy a bar;
+
+什么时候用 一般将来时态
+
+- 表示将来发生的动作和状态的句子里面；未来的计划；发不发生无所谓；
+- 两种格式：will 和 be going to
+
+主系表
+
+- 主语 + will be + 表语；没有单复数，三单的区别
+  - I will be busy； you will be busy； She will be busy
+  - I am going to be a teacher next year； I'm gonna be a teacher
+  - 把 be going to 替换 will；
+- 疑问句：will 放到句首；其他不变
+  - Will you be a teacher next year？
+- 否定句：will 变成 will not = won't
+  - you won't be a teacher；
+
+主谓宾
+
+- 主语 + will+动词原型（复合谓语） + （及物动词）宾语
+  - I will work；They will help me；
+  - I am going to work; They are going to swim/help me;
+- 疑问句；把 will 提到开头
+  - Will you work？
+- 否定句；把 will 变成 will not
+  - you will not work; They won't help me；
+
+什么时候用 现在进行时
+
+- 表示主语此时此刻正在进行的动作的句子; 或者这段时间持续做的事情
+- 不需要加时间状语；少数几个 now，right now； at the moment；
+
+没有主系表结构，只有主谓宾表示动作的结构
+
+- 主语 + be(is/am/are)+动词现在分词（复合谓语）+ （及物动词）宾语
+- 这里的 be 不是系动词，它是助动词，没有含义，为了构成时态
+  - I am playing computer；She is working now；
+- 疑问句：把 be 提前，动词现在分词不变
+  - Is she working now?
+- 否定句：be 改成 be + not，动词现在分词不变
+  - She isn't working now；
+
+特殊主系表句型的构成
+
+- 有些实义动词被借过来当系动词，称为特殊的系动词；
+  - 当这些实义动词后面跟一个形容词作表语的时候，是特殊系动词
+  - 当是be动词的时候，才是系动词
+- 主系表结构：
+  - 1、主+ be +表 (占 95%)
+  - 2、主+ 特殊的系动词 +表（必须是形容词） （占 5%）
+- 这种特殊的结构也可以使用到 一般现在时，一般将来时，一般过去式，正在进行时
+- Look 看起来； get 变成，变得； feel 感觉；
+- I feel wonderful 我感觉非常好； 主系表（形容词）
+  - 这里 feel 不是be动词，是实义动词，但是 表语是形容词，形容词不能作表语，所以，它是特殊主系表结构
+- You look beautiful；主系表结构
+- 1、一般现在时态
+  - 非三单：主语+ 特殊系动词原型 + 形容词作表语
+    - I，we，you，they，these，those
+    - 肯定句：I feel good every day；
+    - 疑问句：Do you feel good?
+    - 否定句：you don't look good
+  - 三单：主语+ 特殊系动词三单格式 + 形容词作表语
+    - 肯定句：She looks beautiful；
+    - 疑问句：Dose she look beautiful
+    - 否定句：She doesn't look beautiful
+- 2、一般过去时
+  - 肯定句：I looked good before；The workers looked good yesterday； He got good yesterday；
+  - 疑问句：Did she look good before?
+  - 否定句：She didn't look good;
+- 3、一般将来时；用 will 或 be going to
+  - 肯定句：I will look good tomorrow； She will feel good tomorrow； They are going to look good;
+  - 疑问句：Will she feel good？
+  - 否定句：She won't look good tomorrow；
+- 4、现在进行时态
+  - 主语+ is/are/am+特殊系动词的现在分词 + 形容词
+  - 肯定句：JT is looking tired now；These workers are looking tired now； I am looking good now；
+  - 疑问句：Is she looking good？ Are they looking good？ Are you looking tired？
+  - 否定句：I am not feel good； She isn't looking good；
+- 注意：这种特殊主系表句型的变化规则应该遵循主谓宾规则
+- 注意：英语是通过时态结构表达意思，中文是顺序表达结构
+  - I Learn English today；这是错的；想表达，我今天学了英语
+  - 一般现在时 + today；时态和句型不搭；
+  - I learned English today；I will learn English today；I am learning English now；
+  - 但是这种句型可以用在主系表
+  - I am happy today； I am tired now；都是对的
+
+作业：
+
+- 用 get，look，feel 各造 10 句，每种时态造 2 句话；
+- 示范：I　feel good； The girl feels tired every day； I got busy yesterday；
+  - I will get old in the future；We are getting rich；
+- 注意：用词错误
+  - feel cheap 结构没错，逻辑错了；
+  - feel + 情感类（sad，happy，excited，upset，cold，hot，hungry，thirty）
+  - get rich 变富有； get old 变老；get 后面接表示变化的状态，有变化的含义
+  - look beautiful； look handsome； look 后面跟外部变化，可以察觉除了的变化；
