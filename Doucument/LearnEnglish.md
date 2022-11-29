@@ -2739,3 +2739,58 @@ will 和 be going to 的区别
   - feel + 情感类（sad，happy，excited，upset，cold，hot，hungry，thirty）
   - get rich 变富有； get old 变老；get 后面接表示变化的状态，有变化的含义
   - look beautiful； look handsome； look 后面跟外部变化，可以察觉除了的变化；
+
+## 第十二课 副词
+
+- 时间副词，地点副词，方式副词主要作状语；
+- 程度副词用来修饰形容词和方式副词；
+- 频度副词也是作状语，只是位置不同而已
+
+副词最常用的时作状语，学习副词，就是在 主谓宾+状语（副词）； 主系表+状语（副词）；
+
+- 时间副词：now；soon；ago；every day；today；tomorrow；yesterday；tonight；just now 刚才；early/late；before；finally 终于；immediately 立即；just then 就在那时；then 然后；
+  - already；just；lately；before 多于完成时态；
+  - 英语的时间副词比较少，大部分由介词短语构成时间的词语；一般放句尾
+    - 在文章中，如果时间副词放开头，起强调作用；
+  - 1、主谓宾+状语（时间副词）（包括其他几个动作的句型）
+  - 2、主系表+状语（时间副词）
+  - 注意：不同的时间副词用在不同的时态中，不能乱用，逻辑错误
+  - now 现在：
+    - I am learning English now；now 用在现在进行时态，不能用在一般现在时态，主谓宾，
+    - I am busy now；主系表+时间状语，一般现在时态
+    - She is tired now；Joe is tired now；
+  - soon 很快：主要用在一般将来时态
+    - I will go home soon；
+    - I will be rich soon；
+  - ago 不能单独使用，前面加时间长度的词语，用在一般过去式
+    - I was a middle school student 20 years ago；
+    - I bought a watermelon two days ago；
+    - I was free every day three years ago；
+  - Every day 用在一般现在时态，有时可以用在将来和过去时态
+    - She does her homework every day；
+    - I am busy every day；
+    - I will check homework every day in the future；
+  - Today 用在一般过去时或将来时态，不能用在一般现在时主谓宾结构，但是可以用在一般现在时主系表结构
+    - I learn English today；错，应该用过去时态
+    - It is fine today；一般现在时主系表结构
+    - I am busy today；I was busy today；I will be busy today
+    - I ate two apples today；
+    - I will buy many apples today；今天我要买很多苹果
+  - Tomorrow 用在一般将来时态，yesterday 用于一般过去时态
+    - They will go to America tomorrow；
+    - I bought a new cellphone yesterday；
+  - Early 和 late 用在一般现在时态，一般过去时态，一般将来时态；而且可以再加一个其他时间状语
+    - He goes to school early；
+    - I get up early/late every morning；
+    - I got up early/late this morning；
+    - I will get up early/late tomorrow morning；
+    - She often goes to school late;
+    - Her husband comes home late;
+
+
+
+
+
+
+
+
