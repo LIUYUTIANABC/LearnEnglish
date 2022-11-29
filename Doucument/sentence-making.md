@@ -200,10 +200,35 @@ breakfast，lunch，supper 晚餐，dinner 正餐
     - 不可数名词作主语，属于单数概念，用“is”
   - 3、人称代词主格（主语）+ is/ are/ am + 名词（表语）
   - 4、名词（主语）+ is/are + 名词（表语）
+- 疑问句：be 移动到句首
+- 否定句：be 后面加 not；
 
 ```
 This is a little story;
 The name of the village is Kind-Village; Kind-Village is small; he is young; She is beautiful;
 They are healthy; Trees and grasses are green in this village; The river is clean; Water is delicious
 We are farmers; you are a farmer too; He is a doctor; She is a teacher; It is a basket;
+```
+
+- 主谓宾：
+  - 非三单：主语 + 及物动词原型（谓语）+ 宾语 + 状语
+    - 疑问句：前面加 do 后面不变；
+    - 否定句：谓语动词前面加 don't
+  - 三单：主语（人和物）+ 及物动词三单格式 + 宾语 + 状语
+    - 疑问句：句首加 does；三单动词变原型
+    - 否定句：谓语动词前面加 doesn't；三单动词变原型
+  - 时间状语：
+    - every + 时间名词单数：every second；every weeks
+    - 频度副词：always；never；
+      - 1）放be，情态，助动词后面；
+      - 2）放实义动词前面；
+
+```
+One day; The beautiful girl is working in her boss's factory; A handsome boy walks; This machine is heavy;
+The light of the house is bright; He always helps her;
+There is their boss; He is fat and strong; He likes meat; He likes to eat beef;
+That boss seldom cares about his employees；He doesn't believe them;
+His father say: “Do you give money to your employees？”；
+if You asked him："Did you give money to her"
+He always said：Yes，I did；in fact he didn't pay
 ```
