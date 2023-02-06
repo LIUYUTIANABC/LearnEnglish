@@ -2786,11 +2786,13 @@ will 和 be going to 的区别
     - I will get up early/late tomorrow morning；
     - She often goes to school late;
     - Her husband comes home late;
-
-
-
-
-
-
-
-
+    - 主系表结构
+      - JT was famous early
+      - BX will be famous early
+  - Tonight 和 today 用法一样
+  - Just now 用在一般过去时态
+    - I washed my face just now;
+    - I was busy just now
+- 课堂作业：
+  - I am working now;
+  - I will finish my homework soon;
