@@ -2583,6 +2583,20 @@ will 和 be going to 的区别
 - 现在进行时态造；十句话；疑问句，否定句；
 - 注意：有些动词（及物，不及物）单词不能用进行时态：buy，kill，know，love
 
+我的作业：
+
+- I am travelling now；Are you travelling right now? I am not travelling now; You aren't doing your work;
+- Those customers are resting；Are they resting？They are not resting
+- She is dancing at the moment；Is she dancing at the moment；She isn't dancing at the moment；
+- That beautiful girl is learning English；Is that girl learning English？That beautiful girl isn't learning；
+- The dog is eating bones; Is it eating bones? No,The dog isn't eating bones now;
+- My computer is running his code; Is Your computer running his code? No,I am not running his code;
+- We are having a meeting with customers; Are you having a meeting? You are not having a meeting now;
+- Rick and Tom are cooking bread;They are not cooking bread, They are watching TV now; Are they cooking bread?
+- The water in the kettle is boiling; Is the water boiling? The water isn't boiling;
+- The doors and windows are open;
+- The child is opening that door; Is that child opening the door? He isn't opening the door;
+
 ## 第十一课 复习前面四个时态
 
 - 一般现在时；一般过去式；一般将来时；现在进行时；
