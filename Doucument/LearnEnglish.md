@@ -2807,6 +2807,112 @@ will 和 be going to 的区别
   - Just now 用在一般过去时态
     - I washed my face just now;
     - I was busy just now
-- 课堂作业：
-  - I am working now;
-  - I will finish my homework soon;
+  - 课堂作业：
+    - I am working now;
+    - I will finish my homework soon;
+  - 少数时间副词可以作后置定语，主要是 yesterday，today，tomorrow，tonight
+    - The meeting today is very important；
+    - The lesson tomorrow is easy；
+    - I don't know the meeting yesterday;
+    - The party tonight will be wonderful;
+  - every + 时间名词，可以理解为时间副词；构成一个时间状语，用来造句
+    - every day；every month；
+    - 同理还有:
+    - Last + 表时间名词单数； Last night；
+    - Next + 表时间名词单数； Next week
+    - This/That +  表时间名词单数； this morning； this evening；
+      - that day; that night; 一般用在过去时态作时间状语，过去了
+      - these/those days
+    - 注意：这些结构作状语的时候，不要乱加一个表时间的介词在前面；
+      - I was busy in last week; 错
+      - I was busy in yesterday; 错
+- 地点副词：作地点状语；一般使用介词短语来表示地点状语，所以，地点副词比较少
+  - here，there，downstairs(楼下), upstairs（楼上）, nearby, outside, abroad, around, everywhere, indoors,outdoors
+  - 可以直接作地点状语；
+  - 地点副词作地点状语的时候不受时态影响，只要符合逻辑
+    - 主谓宾 或 主系表 + 地点副词（地点状语）都对
+    - 但是，主系表 + 地点副词 极容易发生逻辑错误
+  - 主谓宾 + 地点副词（地点状语）
+      - I live here; I stay there; She lives abroad;
+      - I teach English here; I give her a book there;
+      - I made her happy there;
+      - I will give her a book there;
+      - I am teaching English here;
+    - I am visiting a friend here;
+    - I am happy here
+    - I learn English here every day;  有两个状语，地点状语在前，时间状语在后
+    - They drank beer here last night;
+    - They are playing football there;
+    - They sell sweet potatoes there; 卖红薯
+    - My mother is cooking downstairs;
+    - My friends drink tea downstairs;
+    - My brother is watching TV upstairs;
+    - He sang songs upstairs last night;
+    - Her husband sleeps outside every night
+    - They are taking a walk nearby; 他们正在附近散步
+    - They do business nearby; 他们在附件做生意
+    - They learn English abroad；
+    - They are learning English Abroad；
+    - They are safe abroad；他们在国外安全
+    - They are looking for the pig around; 他们正在周围找这头猪
+    - We see ads everywhere；我们到处看到广告
+    - They play basketball indoors；他们在室内打篮球
+    - They are flying kites outdoors；正在户外放风筝
+    - They are having a party outside; 他们正在外面举行派对
+  - 主系表 + 地点副词（地点状语）
+    - It was dark outside; It is cold outside;
+    - I am tall indoors 逻辑错误； 在室内高
+    - JT is a famous man here 对；
+  - 少数地点副词也可以做后置定语
+    - here，there，home，abroad，upstairs，downstairs，around，indoors，outdoors；
+    - 后置定语修饰的是名词，组成的是短语，不是句子
+    - On his way home，he met his mother；在他回家的路上，
+    - Those buildings around are very high；周围的那些大楼很高
+    - The food here is very bad
+    - The woman upstairs is sexy; 楼上的女人很性感
+    - JT likes the girl upstairs；JT 喜欢楼上的女孩
+    - The girl upstairs likes JK；楼上的女孩喜欢 JK
+    - We often go to the store downstairs；
+    - She buys food from the store downstairs；
+    - The computer abroad are cheap; 国外的电脑是便宜的
+    - The temperature outdoors is low；
+    - The people here are friendly；这里的人友好
+    - The house there are expensive；
+  - 少数地点副词还可以做标语
+    - home，out，back，down，up，off，away，here，there；注意时态和逻辑问题
+    - She is off = she is out = she is away； 他离开了，出去了
+    - I am here； I was here last night；
+    - Are you here？
+    - She will be here; They are there; My friends are here
+    - His brother is not here;
+    - My friends were here five minutes age;
+    - My wife is here; My bag is there
+    - I am home; I will be back soon; I am back;
+    - Time is up; 时间到了
+  - home 的用法；一般做表语和后置定语，不能乱作地点状语；记固定短语
+    - go home; get home; home 相当于状语，
+    - 在家里：at home；
+      - I learn English at home 对；
+      - I learn English home 错；
+  - 少数地点副词可以做宾补；很少 let，Leave，keep，put
+    - let him out； put it down
+    - I put my money here；here 做宾补
+    - I keep money here；
+    - I left my book there；
+  - 介词一般不能跟副词，只能跟名词，代词，动名词；但是有少数固定搭配
+    - from abroad； 从国外； from here；有多远 from there；来自那里
+    - He has just come back from abroad；
+    - How far is your school from here; 从这里到你的学校有多远
+    - The food from there is very good; 来自那里的食物很好吃
+
+作业：
+
+- 用时间副词做时间状语， 6 句
+- 用地点副词做地点状语， 6 句
+
+造句方法：先写一个时态结构正确的句子，再加时间（地点）副词，符合逻辑
+- 实例：
+  - I watch TV (today)upstairs；
+  - I am busy (now)here；
+  - My friend bought a house (yesterday)abroad
+
