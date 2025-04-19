@@ -2916,3 +2916,20 @@ will 和 be going to 的区别
   - I am busy (now)here；
   - My friend bought a house (yesterday)abroad
 
+## 第十二课 副词 2
+
+方式副词：表示动作方式的词语；包括心理动作，具体动作
+
+- 方式副词只能做方式状语，只能修饰实义动词；所以，应该放在主谓宾，主谓宾+双宾，主谓宾+宾补 的句子中
+  - she is quickly 错；quickly 方式副词，不能作表语
+  - she is quick 对；quick 形容词作表语
+- 方式副词绝大部分放在句尾，少数情况放中间或句首；
+- 方式副词数量较多，大部分由 形容词+ly 构成，不是全部，特殊的词要积累
+  - hard，fast 本身就是方式副词，不能加 ly ，hardly 几乎不，含义不是 难
+  - friendly，lovely；属于形容词，不是方式副词；
+- 常用的方式副词：
+  - Carefully 小心地；fast 快；angrily 生气地；warmly 热心地；
+  - suddenly 突然地；slowly 慢慢地；excitedly 兴奋地；quickly 很快地
+  - happily 幸福地；beautifully 漂亮地；loudly 大声地；bravely 勇敢地
+  - naturally 自然地；safely 安全地；patiently 耐心地；well/easily 好容易地
+  - very much 非常；coldly 冷淡地；crossly=angrily；nervously 紧张地；
